@@ -1,0 +1,2186 @@
+[
+    {
+        "name": "Ruh",
+        "number": 1,
+        "type": [
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 39,
+            "defense": 80,
+            "speed": 87
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "InfernoGeo",
+        "number": 2,
+        "type": [
+            "Flame",
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 70,
+            "defense": 68,
+            "speed": 82
+        },
+        "item": "Crystal",
+        "rare_item": null
+    },
+    {
+        "name": "VoltHerba",
+        "number": 3,
+        "type": [
+            "Thunder",
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 56,
+            "defense": 90,
+            "speed": 3
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "TamsaAnima",
+        "number": 4,
+        "type": [
+            "Shadow",
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 72,
+            "defense": 99,
+            "speed": 22
+        },
+        "item": "Flower",
+        "rare_item": null
+    },
+    {
+        "name": "Keraunos",
+        "number": 5,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 96,
+            "defense": 89,
+            "speed": 7
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "AquaGokgurultu",
+        "number": 6,
+        "type": [
+            "Aqua",
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 42,
+            "defense": 17,
+            "speed": 96
+        },
+        "item": "Book",
+        "rare_item": null
+    },
+    {
+        "name": "War",
+        "number": 7,
+        "type": [
+            "Combat"
+        ],
+        "attributes": {
+            "attack": 3,
+            "defense": 43,
+            "speed": 81
+        },
+        "item": "Bell",
+        "rare_item": null
+    },
+    {
+        "name": "Hasharot",
+        "number": 8,
+        "type": [
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 94,
+            "defense": 81,
+            "speed": 28
+        },
+        "item": "Flower",
+        "rare_item": null
+    },
+    {
+        "name": "Venenum",
+        "number": 9,
+        "type": [
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 41,
+            "defense": 93,
+            "speed": 58
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "ToxBug",
+        "number": 10,
+        "type": [
+            "Toxic",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 24,
+            "defense": 62,
+            "speed": 83
+        },
+        "item": "Bell",
+        "rare_item": null
+    },
+    {
+        "name": "DrakeFight",
+        "number": 11,
+        "type": [
+            "Wyrm",
+            "Combat"
+        ],
+        "attributes": {
+            "attack": 95,
+            "defense": 50,
+            "speed": 26
+        },
+        "item": "Orb",
+        "rare_item": "Mystic Orb"
+    },
+    {
+        "name": "Alev",
+        "number": 12,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 91,
+            "defense": 15,
+            "speed": 2
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "MagicOtu",
+        "number": 13,
+        "type": [
+            "Enchanted",
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 73,
+            "defense": 48,
+            "speed": 98
+        },
+        "item": "Crystal",
+        "rare_item": null
+    },
+    {
+        "name": "DonVisha",
+        "number": 14,
+        "type": [
+            "Frost",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 68,
+            "defense": 33,
+            "speed": 88
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "Zehir",
+        "number": 15,
+        "type": [
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 67,
+            "defense": 51,
+            "speed": 88
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "Flora",
+        "number": 16,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 38,
+            "defense": 67,
+            "speed": 65
+        },
+        "item": "Stone",
+        "rare_item": null
+    },
+    {
+        "name": "Plantae",
+        "number": 17,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 4,
+            "defense": 95,
+            "speed": 10
+        },
+        "item": "Mushroom",
+        "rare_item": null
+    },
+    {
+        "name": "SpecterIce",
+        "number": 18,
+        "type": [
+            "Phantom",
+            "Frost"
+        ],
+        "attributes": {
+            "attack": 82,
+            "defense": 18,
+            "speed": 52
+        },
+        "item": "Map",
+        "rare_item": null
+    },
+    {
+        "name": "Metal",
+        "number": 19,
+        "type": [
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 41,
+            "defense": 21,
+            "speed": 2
+        },
+        "item": "Lantern",
+        "rare_item": null
+    },
+    {
+        "name": "PoisonMagi",
+        "number": 20,
+        "type": [
+            "Toxic",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 28,
+            "defense": 25,
+            "speed": 66
+        },
+        "item": "Map",
+        "rare_item": null
+    },
+    {
+        "name": "Volt",
+        "number": 21,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 58,
+            "defense": 52,
+            "speed": 69
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "BalanceZamin",
+        "number": 22,
+        "type": [
+            "Neutral",
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 63,
+            "defense": 33,
+            "speed": 33
+        },
+        "item": "Bell",
+        "rare_item": null
+    },
+    {
+        "name": "Ghost",
+        "number": 23,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 62,
+            "defense": 91,
+            "speed": 76
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "Savas",
+        "number": 24,
+        "type": [
+            "Combat"
+        ],
+        "attributes": {
+            "attack": 28,
+            "defense": 28,
+            "speed": 74
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "SteelMagi",
+        "number": 25,
+        "type": [
+            "Metal",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 3,
+            "defense": 85,
+            "speed": 79
+        },
+        "item": "Ring",
+        "rare_item": null
+    },
+    {
+        "name": "OndasDragon",
+        "number": 26,
+        "type": [
+            "Aqua",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 86,
+            "defense": 21,
+            "speed": 80
+        },
+        "item": "Pearl",
+        "rare_item": null
+    },
+    {
+        "name": "Fiamma",
+        "number": 27,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 48,
+            "defense": 58,
+            "speed": 90
+        },
+        "item": "Book",
+        "rare_item": null
+    },
+    {
+        "name": "VoltHydro",
+        "number": 28,
+        "type": [
+            "Thunder",
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 30,
+            "defense": 77,
+            "speed": 15
+        },
+        "item": "Feather",
+        "rare_item": null
+    },
+    {
+        "name": "Hasharot",
+        "number": 29,
+        "type": [
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 100,
+            "defense": 70,
+            "speed": 45
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "AquaAlfr",
+        "number": 30,
+        "type": [
+            "Aqua",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 43,
+            "defense": 48,
+            "speed": 89
+        },
+        "item": "Leaf",
+        "rare_item": null
+    },
+    {
+        "name": "Pacis",
+        "number": 31,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 74,
+            "defense": 54,
+            "speed": 22
+        },
+        "item": "Bell",
+        "rare_item": null
+    },
+    {
+        "name": "PolatDord",
+        "number": 32,
+        "type": [
+            "Metal",
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 14,
+            "defense": 62,
+            "speed": 15
+        },
+        "item": "Leaf",
+        "rare_item": null
+    },
+    {
+        "name": "ZenHayalet",
+        "number": 33,
+        "type": [
+            "Neutral",
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 33,
+            "defense": 79,
+            "speed": 63
+        },
+        "item": "Stone",
+        "rare_item": null
+    },
+    {
+        "name": "Pebble",
+        "number": 34,
+        "type": [
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 66,
+            "defense": 32,
+            "speed": 78
+        },
+        "item": "Crystal",
+        "rare_item": null
+    },
+    {
+        "name": "Skyer",
+        "number": 35,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 23,
+            "defense": 41,
+            "speed": 61
+        },
+        "item": "Lantern",
+        "rare_item": null
+    },
+    {
+        "name": "BugLohe",
+        "number": 36,
+        "type": [
+            "Insect",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 47,
+            "defense": 15,
+            "speed": 98
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "Yilan",
+        "number": 37,
+        "type": [
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 22,
+            "defense": 55,
+            "speed": 96
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "PlainOtrov",
+        "number": 38,
+        "type": [
+            "Basic",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 88,
+            "defense": 77,
+            "speed": 72
+        },
+        "item": "Flower",
+        "rare_item": null
+    },
+    {
+        "name": "UzunBocek",
+        "number": 39,
+        "type": [
+            "Aqua",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 4,
+            "defense": 25,
+            "speed": 67
+        },
+        "item": "Ring",
+        "rare_item": null
+    },
+    {
+        "name": "Fire",
+        "number": 40,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 58,
+            "defense": 64,
+            "speed": 85
+        },
+        "item": "Berry",
+        "rare_item": null
+    },
+    {
+        "name": "FairyLuft",
+        "number": 41,
+        "type": [
+            "Enchanted",
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 86,
+            "defense": 49,
+            "speed": 11
+        },
+        "item": "Key",
+        "rare_item": null
+    },
+    {
+        "name": "WindOtrov",
+        "number": 42,
+        "type": [
+            "Sky",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 26,
+            "defense": 47,
+            "speed": 30
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "Rai",
+        "number": 43,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 86,
+            "defense": 65,
+            "speed": 14
+        },
+        "item": "Crystal",
+        "rare_item": null
+    },
+    {
+        "name": "SaxumSkotos",
+        "number": 44,
+        "type": [
+            "Stone",
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 90,
+            "defense": 89,
+            "speed": 42
+        },
+        "item": "Flower",
+        "rare_item": null
+    },
+    {
+        "name": "Otu",
+        "number": 45,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 40,
+            "defense": 28,
+            "speed": 10
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "Harilik",
+        "number": 46,
+        "type": [
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 69,
+            "defense": 22,
+            "speed": 24
+        },
+        "item": "Pearl",
+        "rare_item": null
+    },
+    {
+        "name": "Medio",
+        "number": 47,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 48,
+            "defense": 36,
+            "speed": 37
+        },
+        "item": "Mushroom",
+        "rare_item": null
+    },
+    {
+        "name": "Druma",
+        "number": 48,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 97,
+            "defense": 81,
+            "speed": 70
+        },
+        "item": "Mushroom",
+        "rare_item": null
+    },
+    {
+        "name": "Hydro",
+        "number": 49,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 21,
+            "defense": 48,
+            "speed": 81
+        },
+        "item": "Crystal",
+        "rare_item": null
+    },
+    {
+        "name": "Ant",
+        "number": 50,
+        "type": [
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 46,
+            "defense": 51,
+            "speed": 100
+        },
+        "item": "Book",
+        "rare_item": null
+    },
+    {
+        "name": "BataVenom",
+        "number": 51,
+        "type": [
+            "Combat",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 27,
+            "defense": 48,
+            "speed": 73
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "Terra",
+        "number": 52,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 25,
+            "defense": 8,
+            "speed": 71
+        },
+        "item": "Stone",
+        "rare_item": null
+    },
+    {
+        "name": "AlevNacht",
+        "number": 53,
+        "type": [
+            "Flame",
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 95,
+            "defense": 86,
+            "speed": 22
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "GokgurultuSkotos",
+        "number": 54,
+        "type": [
+            "Thunder",
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 72,
+            "defense": 82,
+            "speed": 29
+        },
+        "item": "Lantern",
+        "rare_item": null
+    },
+    {
+        "name": "Cryo",
+        "number": 55,
+        "type": [
+            "Frost"
+        ],
+        "attributes": {
+            "attack": 5,
+            "defense": 81,
+            "speed": 1
+        },
+        "item": "Book",
+        "rare_item": "Golden Egg"
+    },
+    {
+        "name": "SteinnMysterium",
+        "number": 56,
+        "type": [
+            "Stone",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 95,
+            "defense": 66,
+            "speed": 3
+        },
+        "item": "Berry",
+        "rare_item": null
+    },
+    {
+        "name": "Yer",
+        "number": 57,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 15,
+            "defense": 75,
+            "speed": 72
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "Wraith",
+        "number": 58,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 82,
+            "defense": 79,
+            "speed": 2
+        },
+        "item": "Pearl",
+        "rare_item": null
+    },
+    {
+        "name": "Golge",
+        "number": 59,
+        "type": [
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 75,
+            "defense": 36,
+            "speed": 21
+        },
+        "item": "Feather",
+        "rare_item": null
+    },
+    {
+        "name": "Psyche",
+        "number": 60,
+        "type": [
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 9,
+            "defense": 45,
+            "speed": 47
+        },
+        "item": "Leaf",
+        "rare_item": null
+    },
+    {
+        "name": "Jarn",
+        "number": 61,
+        "type": [
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 87,
+            "defense": 46,
+            "speed": 3
+        },
+        "item": "Lantern",
+        "rare_item": null
+    },
+    {
+        "name": "StillaAlev",
+        "number": 62,
+        "type": [
+            "Neutral",
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 80,
+            "defense": 61,
+            "speed": 80
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "Gokyuzu",
+        "number": 63,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 37,
+            "defense": 31,
+            "speed": 93
+        },
+        "item": "Feather",
+        "rare_item": null
+    },
+    {
+        "name": "WraithPlanta",
+        "number": 64,
+        "type": [
+            "Phantom",
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 10,
+            "defense": 55,
+            "speed": 12
+        },
+        "item": "Stone",
+        "rare_item": null
+    },
+    {
+        "name": "Vatten",
+        "number": 65,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 66,
+            "defense": 14,
+            "speed": 10
+        },
+        "item": "Flower",
+        "rare_item": null
+    },
+    {
+        "name": "Ghost",
+        "number": 66,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 3,
+            "defense": 18,
+            "speed": 58
+        },
+        "item": "Amulet",
+        "rare_item": null
+    },
+    {
+        "name": "Norm",
+        "number": 67,
+        "type": [
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 69,
+            "defense": 92,
+            "speed": 61
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "Mundus",
+        "number": 68,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 32,
+            "defense": 56,
+            "speed": 27
+        },
+        "item": "Lantern",
+        "rare_item": null
+    },
+    {
+        "name": "RaiNorm",
+        "number": 69,
+        "type": [
+            "Thunder",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 13,
+            "defense": 7,
+            "speed": 1
+        },
+        "item": "Map",
+        "rare_item": null
+    },
+    {
+        "name": "Jord",
+        "number": 70,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 95,
+            "defense": 85,
+            "speed": 96
+        },
+        "item": "Pearl",
+        "rare_item": null
+    },
+    {
+        "name": "Rock",
+        "number": 71,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 32,
+            "defense": 35,
+            "speed": 92
+        },
+        "item": "Key",
+        "rare_item": null
+    },
+    {
+        "name": "MundusSteel",
+        "number": 72,
+        "type": [
+            "Earth",
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 56,
+            "defense": 26,
+            "speed": 82
+        },
+        "item": "Pearl",
+        "rare_item": null
+    },
+    {
+        "name": "Vatten",
+        "number": 73,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 7,
+            "defense": 30,
+            "speed": 82
+        },
+        "item": "Pendant",
+        "rare_item": null
+    },
+    {
+        "name": "IceSerpent",
+        "number": 74,
+        "type": [
+            "Frost",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 11,
+            "defense": 96,
+            "speed": 93
+        },
+        "item": "Book",
+        "rare_item": null
+    },
+    {
+        "name": "Root",
+        "number": 75,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 20,
+            "defense": 6,
+            "speed": 21
+        },
+        "item": "Amulet",
+        "rare_item": null
+    },
+    {
+        "name": "Phyto",
+        "number": 76,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 47,
+            "defense": 12,
+            "speed": 55
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "WaveMedio",
+        "number": 77,
+        "type": [
+            "Aqua",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 80,
+            "defense": 18,
+            "speed": 4
+        },
+        "item": "Leaf",
+        "rare_item": null
+    },
+    {
+        "name": "Dark",
+        "number": 78,
+        "type": [
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 13,
+            "defense": 77,
+            "speed": 49
+        },
+        "item": "Pendant",
+        "rare_item": null
+    },
+    {
+        "name": "WurmPlain",
+        "number": 79,
+        "type": [
+            "Wyrm",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 12,
+            "defense": 59,
+            "speed": 41
+        },
+        "item": "Pearl",
+        "rare_item": null
+    },
+    {
+        "name": "GrundTover",
+        "number": 80,
+        "type": [
+            "Basic",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 90,
+            "defense": 75,
+            "speed": 89
+        },
+        "item": "Stone",
+        "rare_item": null
+    },
+    {
+        "name": "Balance",
+        "number": 81,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 99,
+            "defense": 49,
+            "speed": 66
+        },
+        "item": "Pendant",
+        "rare_item": null
+    },
+    {
+        "name": "Aqua",
+        "number": 82,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 69,
+            "defense": 44,
+            "speed": 50
+        },
+        "item": "Bell",
+        "rare_item": "Dragon Scale"
+    },
+    {
+        "name": "Alfr",
+        "number": 83,
+        "type": [
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 51,
+            "defense": 12,
+            "speed": 15
+        },
+        "item": "Mushroom",
+        "rare_item": null
+    },
+    {
+        "name": "SihirIron",
+        "number": 84,
+        "type": [
+            "Mystic",
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 51,
+            "defense": 74,
+            "speed": 57
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "Stilla",
+        "number": 85,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 61,
+            "defense": 94,
+            "speed": 15
+        },
+        "item": "Book",
+        "rare_item": null
+    },
+    {
+        "name": "BocekSkyer",
+        "number": 86,
+        "type": [
+            "Insect",
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 83,
+            "defense": 37,
+            "speed": 4
+        },
+        "item": "Pearl",
+        "rare_item": null
+    },
+    {
+        "name": "Plantae",
+        "number": 87,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 91,
+            "defense": 85,
+            "speed": 46
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "Leaf",
+        "number": 88,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 54,
+            "defense": 45,
+            "speed": 78
+        },
+        "item": "Bell",
+        "rare_item": null
+    },
+    {
+        "name": "Caelum",
+        "number": 89,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 15,
+            "defense": 79,
+            "speed": 86
+        },
+        "item": "Flower",
+        "rare_item": null
+    },
+    {
+        "name": "DordMysterium",
+        "number": 90,
+        "type": [
+            "Thunder",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 2,
+            "defense": 7,
+            "speed": 54
+        },
+        "item": "Leaf",
+        "rare_item": null
+    },
+    {
+        "name": "LoheKaya",
+        "number": 91,
+        "type": [
+            "Wyrm",
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 64,
+            "defense": 5,
+            "speed": 26
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "Ignis",
+        "number": 92,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 67,
+            "defense": 61,
+            "speed": 91
+        },
+        "item": "Feather",
+        "rare_item": null
+    },
+    {
+        "name": "SimpleGranite",
+        "number": 93,
+        "type": [
+            "Basic",
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 61,
+            "defense": 7,
+            "speed": 26
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "Magica",
+        "number": 94,
+        "type": [
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 29,
+            "defense": 41,
+            "speed": 21
+        },
+        "item": "Mirror",
+        "rare_item": "Elixir of Life"
+    },
+    {
+        "name": "BoulderGizem",
+        "number": 95,
+        "type": [
+            "Stone",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 55,
+            "defense": 21,
+            "speed": 37
+        },
+        "item": "Amulet",
+        "rare_item": null
+    },
+    {
+        "name": "Serpent",
+        "number": 96,
+        "type": [
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 13,
+            "defense": 46,
+            "speed": 88
+        },
+        "item": "Book",
+        "rare_item": "Phoenix Feather"
+    },
+    {
+        "name": "Visha",
+        "number": 97,
+        "type": [
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 6,
+            "defense": 1,
+            "speed": 99
+        },
+        "item": "Book",
+        "rare_item": null
+    },
+    {
+        "name": "OrmrBug",
+        "number": 98,
+        "type": [
+            "Wyrm",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 17,
+            "defense": 47,
+            "speed": 25
+        },
+        "item": "Stone",
+        "rare_item": null
+    },
+    {
+        "name": "PhytoDraco",
+        "number": 99,
+        "type": [
+            "Plant",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 41,
+            "defense": 90,
+            "speed": 30
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "BrannHerba",
+        "number": 100,
+        "type": [
+            "Flame",
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 90,
+            "defense": 1,
+            "speed": 93
+        },
+        "item": "Feather",
+        "rare_item": null
+    },
+    {
+        "name": "Asman",
+        "number": 101,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 3,
+            "defense": 21,
+            "speed": 61
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "CloudBeetle",
+        "number": 102,
+        "type": [
+            "Sky",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 26,
+            "defense": 36,
+            "speed": 8
+        },
+        "item": "Berry",
+        "rare_item": null
+    },
+    {
+        "name": "Brann",
+        "number": 103,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 69,
+            "defense": 57,
+            "speed": 91
+        },
+        "item": "Map",
+        "rare_item": null
+    },
+    {
+        "name": "Sihirli",
+        "number": 104,
+        "type": [
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 11,
+            "defense": 86,
+            "speed": 69
+        },
+        "item": "Stone",
+        "rare_item": null
+    },
+    {
+        "name": "Grund",
+        "number": 105,
+        "type": [
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 60,
+            "defense": 63,
+            "speed": 44
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "KolgeCalm",
+        "number": 106,
+        "type": [
+            "Shadow",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 72,
+            "defense": 26,
+            "speed": 28
+        },
+        "item": "Map",
+        "rare_item": null
+    },
+    {
+        "name": "DrakeIce",
+        "number": 107,
+        "type": [
+            "Wyrm",
+            "Frost"
+        ],
+        "attributes": {
+            "attack": 5,
+            "defense": 59,
+            "speed": 1
+        },
+        "item": "Feather",
+        "rare_item": null
+    },
+    {
+        "name": "Wave",
+        "number": 108,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 29,
+            "defense": 6,
+            "speed": 10
+        },
+        "item": "Orb",
+        "rare_item": "Golden Egg"
+    },
+    {
+        "name": "PhytoCalm",
+        "number": 109,
+        "type": [
+            "Plant",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 54,
+            "defense": 1,
+            "speed": 20
+        },
+        "item": "Mushroom",
+        "rare_item": null
+    },
+    {
+        "name": "Calm",
+        "number": 110,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 55,
+            "defense": 71,
+            "speed": 16
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "Geist",
+        "number": 111,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 78,
+            "defense": 64,
+            "speed": 6
+        },
+        "item": "Feather",
+        "rare_item": null
+    },
+    {
+        "name": "EquiFairy",
+        "number": 112,
+        "type": [
+            "Neutral",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 39,
+            "defense": 82,
+            "speed": 35
+        },
+        "item": "Map",
+        "rare_item": null
+    },
+    {
+        "name": "Haneul",
+        "number": 113,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 43,
+            "defense": 68,
+            "speed": 28
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "Zamin",
+        "number": 114,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 37,
+            "defense": 19,
+            "speed": 36
+        },
+        "item": "Berry",
+        "rare_item": null
+    },
+    {
+        "name": "Yer",
+        "number": 115,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 11,
+            "defense": 87,
+            "speed": 41
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "DarkSu",
+        "number": 116,
+        "type": [
+            "Shadow",
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 52,
+            "defense": 63,
+            "speed": 18
+        },
+        "item": "Crystal",
+        "rare_item": null
+    },
+    {
+        "name": "Blaze",
+        "number": 117,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 20,
+            "defense": 13,
+            "speed": 24
+        },
+        "item": "Feather",
+        "rare_item": null
+    },
+    {
+        "name": "Medio",
+        "number": 118,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 33,
+            "defense": 77,
+            "speed": 61
+        },
+        "item": "Berry",
+        "rare_item": null
+    },
+    {
+        "name": "Hayalet",
+        "number": 119,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 34,
+            "defense": 60,
+            "speed": 53
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "BugSteel",
+        "number": 120,
+        "type": [
+            "Insect",
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 50,
+            "defense": 25,
+            "speed": 11
+        },
+        "item": "Amulet",
+        "rare_item": null
+    },
+    {
+        "name": "SihirQurt",
+        "number": 121,
+        "type": [
+            "Mystic",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 35,
+            "defense": 56,
+            "speed": 85
+        },
+        "item": "Berry",
+        "rare_item": null
+    },
+    {
+        "name": "DrakeElectro",
+        "number": 122,
+        "type": [
+            "Wyrm",
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 19,
+            "defense": 65,
+            "speed": 32
+        },
+        "item": "Map",
+        "rare_item": null
+    },
+    {
+        "name": "ErdaPlain",
+        "number": 123,
+        "type": [
+            "Earth",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 51,
+            "defense": 79,
+            "speed": 4
+        },
+        "item": "Key",
+        "rare_item": null
+    },
+    {
+        "name": "Dalga",
+        "number": 124,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 71,
+            "defense": 35,
+            "speed": 3
+        },
+        "item": "Bell",
+        "rare_item": null
+    },
+    {
+        "name": "Standart",
+        "number": 125,
+        "type": [
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 64,
+            "defense": 96,
+            "speed": 47
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "Dord",
+        "number": 126,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 36,
+            "defense": 73,
+            "speed": 86
+        },
+        "item": "Amulet",
+        "rare_item": null
+    },
+    {
+        "name": "CalmMagica",
+        "number": 127,
+        "type": [
+            "Neutral",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 25,
+            "defense": 11,
+            "speed": 73
+        },
+        "item": "Mushroom",
+        "rare_item": null
+    },
+    {
+        "name": "MagiVatten",
+        "number": 128,
+        "type": [
+            "Mystic",
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 22,
+            "defense": 32,
+            "speed": 84
+        },
+        "item": "Amulet",
+        "rare_item": null
+    },
+    {
+        "name": "Sihirli",
+        "number": 129,
+        "type": [
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 25,
+            "defense": 42,
+            "speed": 97
+        },
+        "item": "Map",
+        "rare_item": null
+    },
+    {
+        "name": "CryoPlain",
+        "number": 130,
+        "type": [
+            "Frost",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 7,
+            "defense": 78,
+            "speed": 32
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "SkotosZehir",
+        "number": 131,
+        "type": [
+            "Shadow",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 57,
+            "defense": 58,
+            "speed": 94
+        },
+        "item": "Mirror",
+        "rare_item": null
+    },
+    {
+        "name": "KolgeTas",
+        "number": 132,
+        "type": [
+            "Shadow",
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 74,
+            "defense": 38,
+            "speed": 53
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "BocekSihir",
+        "number": 133,
+        "type": [
+            "Insect",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 64,
+            "defense": 89,
+            "speed": 87
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "OndasBasal",
+        "number": 134,
+        "type": [
+            "Aqua",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 26,
+            "defense": 90,
+            "speed": 90
+        },
+        "item": "Key",
+        "rare_item": null
+    },
+    {
+        "name": "Plain",
+        "number": 135,
+        "type": [
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 91,
+            "defense": 95,
+            "speed": 33
+        },
+        "item": "Mushroom",
+        "rare_item": null
+    },
+    {
+        "name": "GokyuzuHarmonia",
+        "number": 136,
+        "type": [
+            "Sky",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 6,
+            "defense": 3,
+            "speed": 82
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "Bellum",
+        "number": 137,
+        "type": [
+            "Combat"
+        ],
+        "attributes": {
+            "attack": 52,
+            "defense": 87,
+            "speed": 93
+        },
+        "item": "Bracelet",
+        "rare_item": null
+    },
+    {
+        "name": "RaiSehr",
+        "number": 138,
+        "type": [
+            "Thunder",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 65,
+            "defense": 40,
+            "speed": 25
+        },
+        "item": "Feather",
+        "rare_item": null
+    },
+    {
+        "name": "Tox",
+        "number": 139,
+        "type": [
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 76,
+            "defense": 54,
+            "speed": 94
+        },
+        "item": "Bell",
+        "rare_item": null
+    },
+    {
+        "name": "AsmanRavn",
+        "number": 140,
+        "type": [
+            "Sky",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 96,
+            "defense": 97,
+            "speed": 90
+        },
+        "item": "Mushroom",
+        "rare_item": null
+    },
+    {
+        "name": "Stilla",
+        "number": 141,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 2,
+            "defense": 29,
+            "speed": 13
+        },
+        "item": "Orb",
+        "rare_item": null
+    },
+    {
+        "name": "SkyerMetallum",
+        "number": 142,
+        "type": [
+            "Sky",
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 16,
+            "defense": 89,
+            "speed": 89
+        },
+        "item": "Flower",
+        "rare_item": null
+    },
+    {
+        "name": "Golge",
+        "number": 143,
+        "type": [
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 49,
+            "defense": 6,
+            "speed": 53
+        },
+        "item": "Berry",
+        "rare_item": null
+    },
+    {
+        "name": "NightPlain",
+        "number": 144,
+        "type": [
+            "Shadow",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 73,
+            "defense": 63,
+            "speed": 61
+        },
+        "item": "Pendant",
+        "rare_item": null
+    },
+    {
+        "name": "Fulgur",
+        "number": 145,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 9,
+            "defense": 92,
+            "speed": 29
+        },
+        "item": "Key",
+        "rare_item": null
+    },
+    {
+        "name": "StahlVenenum",
+        "number": 146,
+        "type": [
+            "Metal",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 55,
+            "defense": 79,
+            "speed": 31
+        },
+        "item": "Mushroom",
+        "rare_item": null
+    },
+    {
+        "name": "Brann",
+        "number": 147,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 30,
+            "defense": 48,
+            "speed": 90
+        },
+        "item": "Key",
+        "rare_item": "Golden Egg"
+    },
+    {
+        "name": "Nox",
+        "number": 148,
+        "type": [
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 46,
+            "defense": 77,
+            "speed": 68
+        },
+        "item": "Scroll",
+        "rare_item": null
+    },
+    {
+        "name": "YilanGeist",
+        "number": 149,
+        "type": [
+            "Wyrm",
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 90,
+            "defense": 84,
+            "speed": 34
+        },
+        "item": "Map",
+        "rare_item": null
+    },
+    {
+        "name": "MysteriumEjder",
+        "number": 150,
+        "type": [
+            "Mystic",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 63,
+            "defense": 25,
+            "speed": 52
+        },
+        "item": "Pendant",
+        "rare_item": null
+    },
+    {
+        "name": "FrigusGokgurultu",
+        "number": 151,
+        "type": [
+            "Frost",
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 13,
+            "defense": 10,
+            "speed": 98
+        },
+        "item": "Scroll",
+        "rare_item": null
+    }
+]
