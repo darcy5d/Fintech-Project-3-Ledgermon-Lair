@@ -1,0 +1,17 @@
+{
+    "name": "KolgeTas",
+    "number": 132,
+    "type": [
+        "Shadow",
+        "Stone"
+    ],
+    "attributes": {
+        "attack": 74,
+        "defense": 38,
+        "speed": 53
+    },
+    "item": "Scroll",
+    "rare_item": null,
+    "sprite": "132.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/132.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Harilik",
+    "number": 46,
+    "type": [
+        "Stone"
+    ],
+    "attributes": {
+        "attack": 69,
+        "defense": 22,
+        "speed": 24
+    },
+    "item": "Pearl",
+    "rare_item": null,
+    "sprite": "46.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/46.png"
+}

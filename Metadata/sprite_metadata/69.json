@@ -1,0 +1,17 @@
+{
+    "name": "RaiNorm",
+    "number": 69,
+    "type": [
+        "Thunder",
+        "Basic"
+    ],
+    "attributes": {
+        "attack": 13,
+        "defense": 7,
+        "speed": 1
+    },
+    "item": "Map",
+    "rare_item": null,
+    "sprite": "69.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/69.png"
+}

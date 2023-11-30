@@ -1,0 +1,17 @@
+{
+    "name": "PhytoCalm",
+    "number": 109,
+    "type": [
+        "Plant",
+        "Neutral"
+    ],
+    "attributes": {
+        "attack": 54,
+        "defense": 1,
+        "speed": 20
+    },
+    "item": "Mushroom",
+    "rare_item": null,
+    "sprite": "109.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/109.png"
+}

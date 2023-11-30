@@ -1,0 +1,16 @@
+{
+    "name": "Vatten",
+    "number": 73,
+    "type": [
+        "Aqua"
+    ],
+    "attributes": {
+        "attack": 7,
+        "defense": 30,
+        "speed": 82
+    },
+    "item": "Pendant",
+    "rare_item": null,
+    "sprite": "73.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/73.png"
+}

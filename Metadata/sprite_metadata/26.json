@@ -1,0 +1,17 @@
+{
+    "name": "OndasDragon",
+    "number": 26,
+    "type": [
+        "Aqua",
+        "Wyrm"
+    ],
+    "attributes": {
+        "attack": 86,
+        "defense": 21,
+        "speed": 80
+    },
+    "item": "Pearl",
+    "rare_item": null,
+    "sprite": "26.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/26.png"
+}

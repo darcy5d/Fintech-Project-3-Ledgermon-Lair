@@ -1,0 +1,17 @@
+{
+    "name": "ErdaPlain",
+    "number": 123,
+    "type": [
+        "Earth",
+        "Basic"
+    ],
+    "attributes": {
+        "attack": 51,
+        "defense": 79,
+        "speed": 4
+    },
+    "item": "Key",
+    "rare_item": null,
+    "sprite": "123.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/123.png"
+}

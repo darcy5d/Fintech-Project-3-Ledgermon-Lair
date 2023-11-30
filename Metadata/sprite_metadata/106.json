@@ -1,0 +1,17 @@
+{
+    "name": "KolgeCalm",
+    "number": 106,
+    "type": [
+        "Shadow",
+        "Neutral"
+    ],
+    "attributes": {
+        "attack": 72,
+        "defense": 26,
+        "speed": 28
+    },
+    "item": "Map",
+    "rare_item": null,
+    "sprite": "106.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/106.png"
+}

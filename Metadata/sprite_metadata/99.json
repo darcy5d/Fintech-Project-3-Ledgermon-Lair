@@ -1,0 +1,17 @@
+{
+    "name": "PhytoDraco",
+    "number": 99,
+    "type": [
+        "Plant",
+        "Wyrm"
+    ],
+    "attributes": {
+        "attack": 41,
+        "defense": 90,
+        "speed": 30
+    },
+    "item": "Mirror",
+    "rare_item": null,
+    "sprite": "99.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/99.png"
+}

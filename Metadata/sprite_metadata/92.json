@@ -1,0 +1,16 @@
+{
+    "name": "Ignis",
+    "number": 92,
+    "type": [
+        "Flame"
+    ],
+    "attributes": {
+        "attack": 67,
+        "defense": 61,
+        "speed": 91
+    },
+    "item": "Feather",
+    "rare_item": null,
+    "sprite": "92.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/92.png"
+}

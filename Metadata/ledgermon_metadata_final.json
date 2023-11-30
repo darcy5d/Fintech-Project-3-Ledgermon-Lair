@@ -1,0 +1,2488 @@
+[
+    {
+        "name": "Ruh",
+        "number": 1,
+        "type": [
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 39,
+            "defense": 80,
+            "speed": 87
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "1.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/1.png"
+    },
+    {
+        "name": "InfernoGeo",
+        "number": 2,
+        "type": [
+            "Flame",
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 70,
+            "defense": 68,
+            "speed": 82
+        },
+        "item": "Crystal",
+        "rare_item": null,
+        "sprite": "2.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/2.png"
+    },
+    {
+        "name": "VoltHerba",
+        "number": 3,
+        "type": [
+            "Thunder",
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 56,
+            "defense": 90,
+            "speed": 3
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "3.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/3.png"
+    },
+    {
+        "name": "TamsaAnima",
+        "number": 4,
+        "type": [
+            "Shadow",
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 72,
+            "defense": 99,
+            "speed": 22
+        },
+        "item": "Flower",
+        "rare_item": null,
+        "sprite": "4.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/4.png"
+    },
+    {
+        "name": "Keraunos",
+        "number": 5,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 96,
+            "defense": 89,
+            "speed": 7
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "5.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/5.png"
+    },
+    {
+        "name": "AquaGokgurultu",
+        "number": 6,
+        "type": [
+            "Aqua",
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 42,
+            "defense": 17,
+            "speed": 96
+        },
+        "item": "Book",
+        "rare_item": null,
+        "sprite": "6.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/6.png"
+    },
+    {
+        "name": "War",
+        "number": 7,
+        "type": [
+            "Combat"
+        ],
+        "attributes": {
+            "attack": 3,
+            "defense": 43,
+            "speed": 81
+        },
+        "item": "Bell",
+        "rare_item": null,
+        "sprite": "7.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/7.png"
+    },
+    {
+        "name": "Hasharot",
+        "number": 8,
+        "type": [
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 94,
+            "defense": 81,
+            "speed": 28
+        },
+        "item": "Flower",
+        "rare_item": null,
+        "sprite": "8.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/8.png"
+    },
+    {
+        "name": "Venenum",
+        "number": 9,
+        "type": [
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 41,
+            "defense": 93,
+            "speed": 58
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "9.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/9.png"
+    },
+    {
+        "name": "ToxBug",
+        "number": 10,
+        "type": [
+            "Toxic",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 24,
+            "defense": 62,
+            "speed": 83
+        },
+        "item": "Bell",
+        "rare_item": null,
+        "sprite": "10.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/10.png"
+    },
+    {
+        "name": "DrakeFight",
+        "number": 11,
+        "type": [
+            "Wyrm",
+            "Combat"
+        ],
+        "attributes": {
+            "attack": 95,
+            "defense": 50,
+            "speed": 26
+        },
+        "item": "Orb",
+        "rare_item": "Mystic Orb",
+        "sprite": "11.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/11.png"
+    },
+    {
+        "name": "Alev",
+        "number": 12,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 91,
+            "defense": 15,
+            "speed": 2
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "12.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/12.png"
+    },
+    {
+        "name": "MagicOtu",
+        "number": 13,
+        "type": [
+            "Enchanted",
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 73,
+            "defense": 48,
+            "speed": 98
+        },
+        "item": "Crystal",
+        "rare_item": null,
+        "sprite": "13.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/13.png"
+    },
+    {
+        "name": "DonVisha",
+        "number": 14,
+        "type": [
+            "Frost",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 68,
+            "defense": 33,
+            "speed": 88
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "14.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/14.png"
+    },
+    {
+        "name": "Zehir",
+        "number": 15,
+        "type": [
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 67,
+            "defense": 51,
+            "speed": 88
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "15.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/15.png"
+    },
+    {
+        "name": "Flora",
+        "number": 16,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 38,
+            "defense": 67,
+            "speed": 65
+        },
+        "item": "Stone",
+        "rare_item": null,
+        "sprite": "16.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/16.png"
+    },
+    {
+        "name": "Plantae",
+        "number": 17,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 4,
+            "defense": 95,
+            "speed": 10
+        },
+        "item": "Mushroom",
+        "rare_item": null,
+        "sprite": "17.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/17.png"
+    },
+    {
+        "name": "SpecterIce",
+        "number": 18,
+        "type": [
+            "Phantom",
+            "Frost"
+        ],
+        "attributes": {
+            "attack": 82,
+            "defense": 18,
+            "speed": 52
+        },
+        "item": "Map",
+        "rare_item": null,
+        "sprite": "18.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/18.png"
+    },
+    {
+        "name": "Metal",
+        "number": 19,
+        "type": [
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 41,
+            "defense": 21,
+            "speed": 2
+        },
+        "item": "Lantern",
+        "rare_item": null,
+        "sprite": "19.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/19.png"
+    },
+    {
+        "name": "PoisonMagi",
+        "number": 20,
+        "type": [
+            "Toxic",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 28,
+            "defense": 25,
+            "speed": 66
+        },
+        "item": "Map",
+        "rare_item": null,
+        "sprite": "20.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/20.png"
+    },
+    {
+        "name": "Volt",
+        "number": 21,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 58,
+            "defense": 52,
+            "speed": 69
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "21.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/21.png"
+    },
+    {
+        "name": "BalanceZamin",
+        "number": 22,
+        "type": [
+            "Neutral",
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 63,
+            "defense": 33,
+            "speed": 33
+        },
+        "item": "Bell",
+        "rare_item": null,
+        "sprite": "22.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/22.png"
+    },
+    {
+        "name": "Ghost",
+        "number": 23,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 62,
+            "defense": 91,
+            "speed": 76
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "23.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/23.png"
+    },
+    {
+        "name": "Savas",
+        "number": 24,
+        "type": [
+            "Combat"
+        ],
+        "attributes": {
+            "attack": 28,
+            "defense": 28,
+            "speed": 74
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "24.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/24.png"
+    },
+    {
+        "name": "SteelMagi",
+        "number": 25,
+        "type": [
+            "Metal",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 3,
+            "defense": 85,
+            "speed": 79
+        },
+        "item": "Ring",
+        "rare_item": null,
+        "sprite": "25.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/25.png"
+    },
+    {
+        "name": "OndasDragon",
+        "number": 26,
+        "type": [
+            "Aqua",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 86,
+            "defense": 21,
+            "speed": 80
+        },
+        "item": "Pearl",
+        "rare_item": null,
+        "sprite": "26.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/26.png"
+    },
+    {
+        "name": "Fiamma",
+        "number": 27,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 48,
+            "defense": 58,
+            "speed": 90
+        },
+        "item": "Book",
+        "rare_item": null,
+        "sprite": "27.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/27.png"
+    },
+    {
+        "name": "VoltHydro",
+        "number": 28,
+        "type": [
+            "Thunder",
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 30,
+            "defense": 77,
+            "speed": 15
+        },
+        "item": "Feather",
+        "rare_item": null,
+        "sprite": "28.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/28.png"
+    },
+    {
+        "name": "Hasharot",
+        "number": 29,
+        "type": [
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 100,
+            "defense": 70,
+            "speed": 45
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "29.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/29.png"
+    },
+    {
+        "name": "AquaAlfr",
+        "number": 30,
+        "type": [
+            "Aqua",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 43,
+            "defense": 48,
+            "speed": 89
+        },
+        "item": "Leaf",
+        "rare_item": null,
+        "sprite": "30.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/30.png"
+    },
+    {
+        "name": "Pacis",
+        "number": 31,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 74,
+            "defense": 54,
+            "speed": 22
+        },
+        "item": "Bell",
+        "rare_item": null,
+        "sprite": "31.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/31.png"
+    },
+    {
+        "name": "PolatDord",
+        "number": 32,
+        "type": [
+            "Metal",
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 14,
+            "defense": 62,
+            "speed": 15
+        },
+        "item": "Leaf",
+        "rare_item": null,
+        "sprite": "32.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/32.png"
+    },
+    {
+        "name": "ZenHayalet",
+        "number": 33,
+        "type": [
+            "Neutral",
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 33,
+            "defense": 79,
+            "speed": 63
+        },
+        "item": "Stone",
+        "rare_item": null,
+        "sprite": "33.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/33.png"
+    },
+    {
+        "name": "Pebble",
+        "number": 34,
+        "type": [
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 66,
+            "defense": 32,
+            "speed": 78
+        },
+        "item": "Crystal",
+        "rare_item": null,
+        "sprite": "34.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/34.png"
+    },
+    {
+        "name": "Skyer",
+        "number": 35,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 23,
+            "defense": 41,
+            "speed": 61
+        },
+        "item": "Lantern",
+        "rare_item": null,
+        "sprite": "35.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/35.png"
+    },
+    {
+        "name": "BugLohe",
+        "number": 36,
+        "type": [
+            "Insect",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 47,
+            "defense": 15,
+            "speed": 98
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "36.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/36.png"
+    },
+    {
+        "name": "Yilan",
+        "number": 37,
+        "type": [
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 22,
+            "defense": 55,
+            "speed": 96
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "37.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/37.png"
+    },
+    {
+        "name": "PlainOtrov",
+        "number": 38,
+        "type": [
+            "Basic",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 88,
+            "defense": 77,
+            "speed": 72
+        },
+        "item": "Flower",
+        "rare_item": null,
+        "sprite": "38.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/38.png"
+    },
+    {
+        "name": "UzunBocek",
+        "number": 39,
+        "type": [
+            "Aqua",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 4,
+            "defense": 25,
+            "speed": 67
+        },
+        "item": "Ring",
+        "rare_item": null,
+        "sprite": "39.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/39.png"
+    },
+    {
+        "name": "Fire",
+        "number": 40,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 58,
+            "defense": 64,
+            "speed": 85
+        },
+        "item": "Berry",
+        "rare_item": null,
+        "sprite": "40.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/40.png"
+    },
+    {
+        "name": "FairyLuft",
+        "number": 41,
+        "type": [
+            "Enchanted",
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 86,
+            "defense": 49,
+            "speed": 11
+        },
+        "item": "Key",
+        "rare_item": null,
+        "sprite": "41.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/41.png"
+    },
+    {
+        "name": "WindOtrov",
+        "number": 42,
+        "type": [
+            "Sky",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 26,
+            "defense": 47,
+            "speed": 30
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "42.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/42.png"
+    },
+    {
+        "name": "Rai",
+        "number": 43,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 86,
+            "defense": 65,
+            "speed": 14
+        },
+        "item": "Crystal",
+        "rare_item": null,
+        "sprite": "43.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/43.png"
+    },
+    {
+        "name": "SaxumSkotos",
+        "number": 44,
+        "type": [
+            "Stone",
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 90,
+            "defense": 89,
+            "speed": 42
+        },
+        "item": "Flower",
+        "rare_item": null,
+        "sprite": "44.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/44.png"
+    },
+    {
+        "name": "Otu",
+        "number": 45,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 40,
+            "defense": 28,
+            "speed": 10
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "45.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/45.png"
+    },
+    {
+        "name": "Harilik",
+        "number": 46,
+        "type": [
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 69,
+            "defense": 22,
+            "speed": 24
+        },
+        "item": "Pearl",
+        "rare_item": null,
+        "sprite": "46.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/46.png"
+    },
+    {
+        "name": "Medio",
+        "number": 47,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 48,
+            "defense": 36,
+            "speed": 37
+        },
+        "item": "Mushroom",
+        "rare_item": null,
+        "sprite": "47.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/47.png"
+    },
+    {
+        "name": "Druma",
+        "number": 48,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 97,
+            "defense": 81,
+            "speed": 70
+        },
+        "item": "Mushroom",
+        "rare_item": null,
+        "sprite": "48.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/48.png"
+    },
+    {
+        "name": "Hydro",
+        "number": 49,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 21,
+            "defense": 48,
+            "speed": 81
+        },
+        "item": "Crystal",
+        "rare_item": null,
+        "sprite": "49.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/49.png"
+    },
+    {
+        "name": "Ant",
+        "number": 50,
+        "type": [
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 46,
+            "defense": 51,
+            "speed": 100
+        },
+        "item": "Book",
+        "rare_item": null,
+        "sprite": "50.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/50.png"
+    },
+    {
+        "name": "BataVenom",
+        "number": 51,
+        "type": [
+            "Combat",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 27,
+            "defense": 48,
+            "speed": 73
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "51.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/51.png"
+    },
+    {
+        "name": "Terra",
+        "number": 52,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 25,
+            "defense": 8,
+            "speed": 71
+        },
+        "item": "Stone",
+        "rare_item": null,
+        "sprite": "52.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/52.png"
+    },
+    {
+        "name": "AlevNacht",
+        "number": 53,
+        "type": [
+            "Flame",
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 95,
+            "defense": 86,
+            "speed": 22
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "53.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/53.png"
+    },
+    {
+        "name": "GokgurultuSkotos",
+        "number": 54,
+        "type": [
+            "Thunder",
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 72,
+            "defense": 82,
+            "speed": 29
+        },
+        "item": "Lantern",
+        "rare_item": null,
+        "sprite": "54.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/54.png"
+    },
+    {
+        "name": "Cryo",
+        "number": 55,
+        "type": [
+            "Frost"
+        ],
+        "attributes": {
+            "attack": 5,
+            "defense": 81,
+            "speed": 1
+        },
+        "item": "Book",
+        "rare_item": "Golden Egg",
+        "sprite": "55.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/55.png"
+    },
+    {
+        "name": "SteinnMysterium",
+        "number": 56,
+        "type": [
+            "Stone",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 95,
+            "defense": 66,
+            "speed": 3
+        },
+        "item": "Berry",
+        "rare_item": null,
+        "sprite": "56.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/56.png"
+    },
+    {
+        "name": "Yer",
+        "number": 57,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 15,
+            "defense": 75,
+            "speed": 72
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "57.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/57.png"
+    },
+    {
+        "name": "Wraith",
+        "number": 58,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 82,
+            "defense": 79,
+            "speed": 2
+        },
+        "item": "Pearl",
+        "rare_item": null,
+        "sprite": "58.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/58.png"
+    },
+    {
+        "name": "Golge",
+        "number": 59,
+        "type": [
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 75,
+            "defense": 36,
+            "speed": 21
+        },
+        "item": "Feather",
+        "rare_item": null,
+        "sprite": "59.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/59.png"
+    },
+    {
+        "name": "Psyche",
+        "number": 60,
+        "type": [
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 9,
+            "defense": 45,
+            "speed": 47
+        },
+        "item": "Leaf",
+        "rare_item": null,
+        "sprite": "60.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/60.png"
+    },
+    {
+        "name": "Jarn",
+        "number": 61,
+        "type": [
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 87,
+            "defense": 46,
+            "speed": 3
+        },
+        "item": "Lantern",
+        "rare_item": null,
+        "sprite": "61.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/61.png"
+    },
+    {
+        "name": "StillaAlev",
+        "number": 62,
+        "type": [
+            "Neutral",
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 80,
+            "defense": 61,
+            "speed": 80
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "62.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/62.png"
+    },
+    {
+        "name": "Gokyuzu",
+        "number": 63,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 37,
+            "defense": 31,
+            "speed": 93
+        },
+        "item": "Feather",
+        "rare_item": null,
+        "sprite": "63.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/63.png"
+    },
+    {
+        "name": "WraithPlanta",
+        "number": 64,
+        "type": [
+            "Phantom",
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 10,
+            "defense": 55,
+            "speed": 12
+        },
+        "item": "Stone",
+        "rare_item": null,
+        "sprite": "64.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/64.png"
+    },
+    {
+        "name": "Vatten",
+        "number": 65,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 66,
+            "defense": 14,
+            "speed": 10
+        },
+        "item": "Flower",
+        "rare_item": null,
+        "sprite": "65.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/65.png"
+    },
+    {
+        "name": "Ghost",
+        "number": 66,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 3,
+            "defense": 18,
+            "speed": 58
+        },
+        "item": "Amulet",
+        "rare_item": null,
+        "sprite": "66.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/66.png"
+    },
+    {
+        "name": "Norm",
+        "number": 67,
+        "type": [
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 69,
+            "defense": 92,
+            "speed": 61
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "67.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/67.png"
+    },
+    {
+        "name": "Mundus",
+        "number": 68,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 32,
+            "defense": 56,
+            "speed": 27
+        },
+        "item": "Lantern",
+        "rare_item": null,
+        "sprite": "68.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/68.png"
+    },
+    {
+        "name": "RaiNorm",
+        "number": 69,
+        "type": [
+            "Thunder",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 13,
+            "defense": 7,
+            "speed": 1
+        },
+        "item": "Map",
+        "rare_item": null,
+        "sprite": "69.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/69.png"
+    },
+    {
+        "name": "Jord",
+        "number": 70,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 95,
+            "defense": 85,
+            "speed": 96
+        },
+        "item": "Pearl",
+        "rare_item": null,
+        "sprite": "70.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/70.png"
+    },
+    {
+        "name": "Rock",
+        "number": 71,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 32,
+            "defense": 35,
+            "speed": 92
+        },
+        "item": "Key",
+        "rare_item": null,
+        "sprite": "71.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/71.png"
+    },
+    {
+        "name": "MundusSteel",
+        "number": 72,
+        "type": [
+            "Earth",
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 56,
+            "defense": 26,
+            "speed": 82
+        },
+        "item": "Pearl",
+        "rare_item": null,
+        "sprite": "72.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/72.png"
+    },
+    {
+        "name": "Vatten",
+        "number": 73,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 7,
+            "defense": 30,
+            "speed": 82
+        },
+        "item": "Pendant",
+        "rare_item": null,
+        "sprite": "73.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/73.png"
+    },
+    {
+        "name": "IceSerpent",
+        "number": 74,
+        "type": [
+            "Frost",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 11,
+            "defense": 96,
+            "speed": 93
+        },
+        "item": "Book",
+        "rare_item": null,
+        "sprite": "74.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/74.png"
+    },
+    {
+        "name": "Root",
+        "number": 75,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 20,
+            "defense": 6,
+            "speed": 21
+        },
+        "item": "Amulet",
+        "rare_item": null,
+        "sprite": "75.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/75.png"
+    },
+    {
+        "name": "Phyto",
+        "number": 76,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 47,
+            "defense": 12,
+            "speed": 55
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "76.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/76.png"
+    },
+    {
+        "name": "WaveMedio",
+        "number": 77,
+        "type": [
+            "Aqua",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 80,
+            "defense": 18,
+            "speed": 4
+        },
+        "item": "Leaf",
+        "rare_item": null,
+        "sprite": "77.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/77.png"
+    },
+    {
+        "name": "Dark",
+        "number": 78,
+        "type": [
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 13,
+            "defense": 77,
+            "speed": 49
+        },
+        "item": "Pendant",
+        "rare_item": null,
+        "sprite": "78.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/78.png"
+    },
+    {
+        "name": "WurmPlain",
+        "number": 79,
+        "type": [
+            "Wyrm",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 12,
+            "defense": 59,
+            "speed": 41
+        },
+        "item": "Pearl",
+        "rare_item": null,
+        "sprite": "79.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/79.png"
+    },
+    {
+        "name": "GrundTover",
+        "number": 80,
+        "type": [
+            "Basic",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 90,
+            "defense": 75,
+            "speed": 89
+        },
+        "item": "Stone",
+        "rare_item": null,
+        "sprite": "80.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/80.png"
+    },
+    {
+        "name": "Balance",
+        "number": 81,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 99,
+            "defense": 49,
+            "speed": 66
+        },
+        "item": "Pendant",
+        "rare_item": null,
+        "sprite": "81.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/81.png"
+    },
+    {
+        "name": "Aqua",
+        "number": 82,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 69,
+            "defense": 44,
+            "speed": 50
+        },
+        "item": "Bell",
+        "rare_item": "Dragon Scale",
+        "sprite": "82.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/82.png"
+    },
+    {
+        "name": "Alfr",
+        "number": 83,
+        "type": [
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 51,
+            "defense": 12,
+            "speed": 15
+        },
+        "item": "Mushroom",
+        "rare_item": null,
+        "sprite": "83.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/83.png"
+    },
+    {
+        "name": "SihirIron",
+        "number": 84,
+        "type": [
+            "Mystic",
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 51,
+            "defense": 74,
+            "speed": 57
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "84.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/84.png"
+    },
+    {
+        "name": "Stilla",
+        "number": 85,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 61,
+            "defense": 94,
+            "speed": 15
+        },
+        "item": "Book",
+        "rare_item": null,
+        "sprite": "85.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/85.png"
+    },
+    {
+        "name": "BocekSkyer",
+        "number": 86,
+        "type": [
+            "Insect",
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 83,
+            "defense": 37,
+            "speed": 4
+        },
+        "item": "Pearl",
+        "rare_item": null,
+        "sprite": "86.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/86.png"
+    },
+    {
+        "name": "Plantae",
+        "number": 87,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 91,
+            "defense": 85,
+            "speed": 46
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "87.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/87.png"
+    },
+    {
+        "name": "Leaf",
+        "number": 88,
+        "type": [
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 54,
+            "defense": 45,
+            "speed": 78
+        },
+        "item": "Bell",
+        "rare_item": null,
+        "sprite": "88.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/88.png"
+    },
+    {
+        "name": "Caelum",
+        "number": 89,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 15,
+            "defense": 79,
+            "speed": 86
+        },
+        "item": "Flower",
+        "rare_item": null,
+        "sprite": "89.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/89.png"
+    },
+    {
+        "name": "DordMysterium",
+        "number": 90,
+        "type": [
+            "Thunder",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 2,
+            "defense": 7,
+            "speed": 54
+        },
+        "item": "Leaf",
+        "rare_item": null,
+        "sprite": "90.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/90.png"
+    },
+    {
+        "name": "LoheKaya",
+        "number": 91,
+        "type": [
+            "Wyrm",
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 64,
+            "defense": 5,
+            "speed": 26
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "91.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/91.png"
+    },
+    {
+        "name": "Ignis",
+        "number": 92,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 67,
+            "defense": 61,
+            "speed": 91
+        },
+        "item": "Feather",
+        "rare_item": null,
+        "sprite": "92.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/92.png"
+    },
+    {
+        "name": "SimpleGranite",
+        "number": 93,
+        "type": [
+            "Basic",
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 61,
+            "defense": 7,
+            "speed": 26
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "93.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/93.png"
+    },
+    {
+        "name": "Magica",
+        "number": 94,
+        "type": [
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 29,
+            "defense": 41,
+            "speed": 21
+        },
+        "item": "Mirror",
+        "rare_item": "Elixir of Life",
+        "sprite": "94.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/94.png"
+    },
+    {
+        "name": "BoulderGizem",
+        "number": 95,
+        "type": [
+            "Stone",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 55,
+            "defense": 21,
+            "speed": 37
+        },
+        "item": "Amulet",
+        "rare_item": null,
+        "sprite": "95.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/95.png"
+    },
+    {
+        "name": "Serpent",
+        "number": 96,
+        "type": [
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 13,
+            "defense": 46,
+            "speed": 88
+        },
+        "item": "Book",
+        "rare_item": "Phoenix Feather",
+        "sprite": "96.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/96.png"
+    },
+    {
+        "name": "Visha",
+        "number": 97,
+        "type": [
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 6,
+            "defense": 1,
+            "speed": 99
+        },
+        "item": "Book",
+        "rare_item": null,
+        "sprite": "97.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/97.png"
+    },
+    {
+        "name": "OrmrBug",
+        "number": 98,
+        "type": [
+            "Wyrm",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 17,
+            "defense": 47,
+            "speed": 25
+        },
+        "item": "Stone",
+        "rare_item": null,
+        "sprite": "98.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/98.png"
+    },
+    {
+        "name": "PhytoDraco",
+        "number": 99,
+        "type": [
+            "Plant",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 41,
+            "defense": 90,
+            "speed": 30
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "99.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/99.png"
+    },
+    {
+        "name": "BrannHerba",
+        "number": 100,
+        "type": [
+            "Flame",
+            "Plant"
+        ],
+        "attributes": {
+            "attack": 90,
+            "defense": 1,
+            "speed": 93
+        },
+        "item": "Feather",
+        "rare_item": null,
+        "sprite": "100.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/100.png"
+    },
+    {
+        "name": "Asman",
+        "number": 101,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 3,
+            "defense": 21,
+            "speed": 61
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "101.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/101.png"
+    },
+    {
+        "name": "CloudBeetle",
+        "number": 102,
+        "type": [
+            "Sky",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 26,
+            "defense": 36,
+            "speed": 8
+        },
+        "item": "Berry",
+        "rare_item": null,
+        "sprite": "102.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/102.png"
+    },
+    {
+        "name": "Brann",
+        "number": 103,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 69,
+            "defense": 57,
+            "speed": 91
+        },
+        "item": "Map",
+        "rare_item": null,
+        "sprite": "103.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/103.png"
+    },
+    {
+        "name": "Sihirli",
+        "number": 104,
+        "type": [
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 11,
+            "defense": 86,
+            "speed": 69
+        },
+        "item": "Stone",
+        "rare_item": null,
+        "sprite": "104.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/104.png"
+    },
+    {
+        "name": "Grund",
+        "number": 105,
+        "type": [
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 60,
+            "defense": 63,
+            "speed": 44
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "105.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/105.png"
+    },
+    {
+        "name": "KolgeCalm",
+        "number": 106,
+        "type": [
+            "Shadow",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 72,
+            "defense": 26,
+            "speed": 28
+        },
+        "item": "Map",
+        "rare_item": null,
+        "sprite": "106.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/106.png"
+    },
+    {
+        "name": "DrakeIce",
+        "number": 107,
+        "type": [
+            "Wyrm",
+            "Frost"
+        ],
+        "attributes": {
+            "attack": 5,
+            "defense": 59,
+            "speed": 1
+        },
+        "item": "Feather",
+        "rare_item": null,
+        "sprite": "107.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/107.png"
+    },
+    {
+        "name": "Wave",
+        "number": 108,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 29,
+            "defense": 6,
+            "speed": 10
+        },
+        "item": "Orb",
+        "rare_item": "Golden Egg",
+        "sprite": "108.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/108.png"
+    },
+    {
+        "name": "PhytoCalm",
+        "number": 109,
+        "type": [
+            "Plant",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 54,
+            "defense": 1,
+            "speed": 20
+        },
+        "item": "Mushroom",
+        "rare_item": null,
+        "sprite": "109.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/109.png"
+    },
+    {
+        "name": "Calm",
+        "number": 110,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 55,
+            "defense": 71,
+            "speed": 16
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "110.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/110.png"
+    },
+    {
+        "name": "Geist",
+        "number": 111,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 78,
+            "defense": 64,
+            "speed": 6
+        },
+        "item": "Feather",
+        "rare_item": null,
+        "sprite": "111.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/111.png"
+    },
+    {
+        "name": "EquiFairy",
+        "number": 112,
+        "type": [
+            "Neutral",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 39,
+            "defense": 82,
+            "speed": 35
+        },
+        "item": "Map",
+        "rare_item": null,
+        "sprite": "112.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/112.png"
+    },
+    {
+        "name": "Haneul",
+        "number": 113,
+        "type": [
+            "Sky"
+        ],
+        "attributes": {
+            "attack": 43,
+            "defense": 68,
+            "speed": 28
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "113.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/113.png"
+    },
+    {
+        "name": "Zamin",
+        "number": 114,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 37,
+            "defense": 19,
+            "speed": 36
+        },
+        "item": "Berry",
+        "rare_item": null,
+        "sprite": "114.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/114.png"
+    },
+    {
+        "name": "Yer",
+        "number": 115,
+        "type": [
+            "Earth"
+        ],
+        "attributes": {
+            "attack": 11,
+            "defense": 87,
+            "speed": 41
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "115.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/115.png"
+    },
+    {
+        "name": "DarkSu",
+        "number": 116,
+        "type": [
+            "Shadow",
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 52,
+            "defense": 63,
+            "speed": 18
+        },
+        "item": "Crystal",
+        "rare_item": null,
+        "sprite": "116.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/116.png"
+    },
+    {
+        "name": "Blaze",
+        "number": 117,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 20,
+            "defense": 13,
+            "speed": 24
+        },
+        "item": "Feather",
+        "rare_item": null,
+        "sprite": "117.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/117.png"
+    },
+    {
+        "name": "Medio",
+        "number": 118,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 33,
+            "defense": 77,
+            "speed": 61
+        },
+        "item": "Berry",
+        "rare_item": null,
+        "sprite": "118.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/118.png"
+    },
+    {
+        "name": "Hayalet",
+        "number": 119,
+        "type": [
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 34,
+            "defense": 60,
+            "speed": 53
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "119.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/119.png"
+    },
+    {
+        "name": "BugSteel",
+        "number": 120,
+        "type": [
+            "Insect",
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 50,
+            "defense": 25,
+            "speed": 11
+        },
+        "item": "Amulet",
+        "rare_item": null,
+        "sprite": "120.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/120.png"
+    },
+    {
+        "name": "SihirQurt",
+        "number": 121,
+        "type": [
+            "Mystic",
+            "Insect"
+        ],
+        "attributes": {
+            "attack": 35,
+            "defense": 56,
+            "speed": 85
+        },
+        "item": "Berry",
+        "rare_item": null,
+        "sprite": "121.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/121.png"
+    },
+    {
+        "name": "DrakeElectro",
+        "number": 122,
+        "type": [
+            "Wyrm",
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 19,
+            "defense": 65,
+            "speed": 32
+        },
+        "item": "Map",
+        "rare_item": null,
+        "sprite": "122.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/122.png"
+    },
+    {
+        "name": "ErdaPlain",
+        "number": 123,
+        "type": [
+            "Earth",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 51,
+            "defense": 79,
+            "speed": 4
+        },
+        "item": "Key",
+        "rare_item": null,
+        "sprite": "123.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/123.png"
+    },
+    {
+        "name": "Dalga",
+        "number": 124,
+        "type": [
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 71,
+            "defense": 35,
+            "speed": 3
+        },
+        "item": "Bell",
+        "rare_item": null,
+        "sprite": "124.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/124.png"
+    },
+    {
+        "name": "Standart",
+        "number": 125,
+        "type": [
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 64,
+            "defense": 96,
+            "speed": 47
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "125.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/125.png"
+    },
+    {
+        "name": "Dord",
+        "number": 126,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 36,
+            "defense": 73,
+            "speed": 86
+        },
+        "item": "Amulet",
+        "rare_item": null,
+        "sprite": "126.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/126.png"
+    },
+    {
+        "name": "CalmMagica",
+        "number": 127,
+        "type": [
+            "Neutral",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 25,
+            "defense": 11,
+            "speed": 73
+        },
+        "item": "Mushroom",
+        "rare_item": null,
+        "sprite": "127.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/127.png"
+    },
+    {
+        "name": "MagiVatten",
+        "number": 128,
+        "type": [
+            "Mystic",
+            "Aqua"
+        ],
+        "attributes": {
+            "attack": 22,
+            "defense": 32,
+            "speed": 84
+        },
+        "item": "Amulet",
+        "rare_item": null,
+        "sprite": "128.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/128.png"
+    },
+    {
+        "name": "Sihirli",
+        "number": 129,
+        "type": [
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 25,
+            "defense": 42,
+            "speed": 97
+        },
+        "item": "Map",
+        "rare_item": null,
+        "sprite": "129.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/129.png"
+    },
+    {
+        "name": "CryoPlain",
+        "number": 130,
+        "type": [
+            "Frost",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 7,
+            "defense": 78,
+            "speed": 32
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "130.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/130.png"
+    },
+    {
+        "name": "SkotosZehir",
+        "number": 131,
+        "type": [
+            "Shadow",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 57,
+            "defense": 58,
+            "speed": 94
+        },
+        "item": "Mirror",
+        "rare_item": null,
+        "sprite": "131.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/131.png"
+    },
+    {
+        "name": "KolgeTas",
+        "number": 132,
+        "type": [
+            "Shadow",
+            "Stone"
+        ],
+        "attributes": {
+            "attack": 74,
+            "defense": 38,
+            "speed": 53
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "132.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/132.png"
+    },
+    {
+        "name": "BocekSihir",
+        "number": 133,
+        "type": [
+            "Insect",
+            "Mystic"
+        ],
+        "attributes": {
+            "attack": 64,
+            "defense": 89,
+            "speed": 87
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "133.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/133.png"
+    },
+    {
+        "name": "OndasBasal",
+        "number": 134,
+        "type": [
+            "Aqua",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 26,
+            "defense": 90,
+            "speed": 90
+        },
+        "item": "Key",
+        "rare_item": null,
+        "sprite": "134.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/134.png"
+    },
+    {
+        "name": "Plain",
+        "number": 135,
+        "type": [
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 91,
+            "defense": 95,
+            "speed": 33
+        },
+        "item": "Mushroom",
+        "rare_item": null,
+        "sprite": "135.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/135.png"
+    },
+    {
+        "name": "GokyuzuHarmonia",
+        "number": 136,
+        "type": [
+            "Sky",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 6,
+            "defense": 3,
+            "speed": 82
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "136.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/136.png"
+    },
+    {
+        "name": "Bellum",
+        "number": 137,
+        "type": [
+            "Combat"
+        ],
+        "attributes": {
+            "attack": 52,
+            "defense": 87,
+            "speed": 93
+        },
+        "item": "Bracelet",
+        "rare_item": null,
+        "sprite": "137.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/137.png"
+    },
+    {
+        "name": "RaiSehr",
+        "number": 138,
+        "type": [
+            "Thunder",
+            "Enchanted"
+        ],
+        "attributes": {
+            "attack": 65,
+            "defense": 40,
+            "speed": 25
+        },
+        "item": "Feather",
+        "rare_item": null,
+        "sprite": "138.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/138.png"
+    },
+    {
+        "name": "Tox",
+        "number": 139,
+        "type": [
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 76,
+            "defense": 54,
+            "speed": 94
+        },
+        "item": "Bell",
+        "rare_item": null,
+        "sprite": "139.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/139.png"
+    },
+    {
+        "name": "AsmanRavn",
+        "number": 140,
+        "type": [
+            "Sky",
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 96,
+            "defense": 97,
+            "speed": 90
+        },
+        "item": "Mushroom",
+        "rare_item": null,
+        "sprite": "140.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/140.png"
+    },
+    {
+        "name": "Stilla",
+        "number": 141,
+        "type": [
+            "Neutral"
+        ],
+        "attributes": {
+            "attack": 2,
+            "defense": 29,
+            "speed": 13
+        },
+        "item": "Orb",
+        "rare_item": null,
+        "sprite": "141.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/141.png"
+    },
+    {
+        "name": "SkyerMetallum",
+        "number": 142,
+        "type": [
+            "Sky",
+            "Metal"
+        ],
+        "attributes": {
+            "attack": 16,
+            "defense": 89,
+            "speed": 89
+        },
+        "item": "Flower",
+        "rare_item": null,
+        "sprite": "142.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/142.png"
+    },
+    {
+        "name": "Golge",
+        "number": 143,
+        "type": [
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 49,
+            "defense": 6,
+            "speed": 53
+        },
+        "item": "Berry",
+        "rare_item": null,
+        "sprite": "143.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/143.png"
+    },
+    {
+        "name": "NightPlain",
+        "number": 144,
+        "type": [
+            "Shadow",
+            "Basic"
+        ],
+        "attributes": {
+            "attack": 73,
+            "defense": 63,
+            "speed": 61
+        },
+        "item": "Pendant",
+        "rare_item": null,
+        "sprite": "144.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/144.png"
+    },
+    {
+        "name": "Fulgur",
+        "number": 145,
+        "type": [
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 9,
+            "defense": 92,
+            "speed": 29
+        },
+        "item": "Key",
+        "rare_item": null,
+        "sprite": "145.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/145.png"
+    },
+    {
+        "name": "StahlVenenum",
+        "number": 146,
+        "type": [
+            "Metal",
+            "Toxic"
+        ],
+        "attributes": {
+            "attack": 55,
+            "defense": 79,
+            "speed": 31
+        },
+        "item": "Mushroom",
+        "rare_item": null,
+        "sprite": "146.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/146.png"
+    },
+    {
+        "name": "Brann",
+        "number": 147,
+        "type": [
+            "Flame"
+        ],
+        "attributes": {
+            "attack": 30,
+            "defense": 48,
+            "speed": 90
+        },
+        "item": "Key",
+        "rare_item": "Golden Egg",
+        "sprite": "147.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/147.png"
+    },
+    {
+        "name": "Nox",
+        "number": 148,
+        "type": [
+            "Shadow"
+        ],
+        "attributes": {
+            "attack": 46,
+            "defense": 77,
+            "speed": 68
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "148.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/148.png"
+    },
+    {
+        "name": "YilanGeist",
+        "number": 149,
+        "type": [
+            "Wyrm",
+            "Phantom"
+        ],
+        "attributes": {
+            "attack": 90,
+            "defense": 84,
+            "speed": 34
+        },
+        "item": "Map",
+        "rare_item": null,
+        "sprite": "149.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/149.png"
+    },
+    {
+        "name": "MysteriumEjder",
+        "number": 150,
+        "type": [
+            "Mystic",
+            "Wyrm"
+        ],
+        "attributes": {
+            "attack": 63,
+            "defense": 25,
+            "speed": 52
+        },
+        "item": "Pendant",
+        "rare_item": null,
+        "sprite": "150.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/150.png"
+    },
+    {
+        "name": "FrigusGokgurultu",
+        "number": 151,
+        "type": [
+            "Frost",
+            "Thunder"
+        ],
+        "attributes": {
+            "attack": 13,
+            "defense": 10,
+            "speed": 98
+        },
+        "item": "Scroll",
+        "rare_item": null,
+        "sprite": "151.png",
+        "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/151.png"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "name": "Stilla",
+    "number": 141,
+    "type": [
+        "Neutral"
+    ],
+    "attributes": {
+        "attack": 2,
+        "defense": 29,
+        "speed": 13
+    },
+    "item": "Orb",
+    "rare_item": null,
+    "sprite": "141.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/141.png"
+}

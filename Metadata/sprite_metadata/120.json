@@ -1,0 +1,17 @@
+{
+    "name": "BugSteel",
+    "number": 120,
+    "type": [
+        "Insect",
+        "Metal"
+    ],
+    "attributes": {
+        "attack": 50,
+        "defense": 25,
+        "speed": 11
+    },
+    "item": "Amulet",
+    "rare_item": null,
+    "sprite": "120.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/120.png"
+}

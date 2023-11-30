@@ -1,0 +1,17 @@
+{
+    "name": "PlainOtrov",
+    "number": 38,
+    "type": [
+        "Basic",
+        "Toxic"
+    ],
+    "attributes": {
+        "attack": 88,
+        "defense": 77,
+        "speed": 72
+    },
+    "item": "Flower",
+    "rare_item": null,
+    "sprite": "38.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/38.png"
+}

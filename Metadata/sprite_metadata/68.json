@@ -1,0 +1,16 @@
+{
+    "name": "Mundus",
+    "number": 68,
+    "type": [
+        "Earth"
+    ],
+    "attributes": {
+        "attack": 32,
+        "defense": 56,
+        "speed": 27
+    },
+    "item": "Lantern",
+    "rare_item": null,
+    "sprite": "68.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/68.png"
+}

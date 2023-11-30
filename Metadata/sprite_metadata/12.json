@@ -1,0 +1,16 @@
+{
+    "name": "Alev",
+    "number": 12,
+    "type": [
+        "Flame"
+    ],
+    "attributes": {
+        "attack": 91,
+        "defense": 15,
+        "speed": 2
+    },
+    "item": "Scroll",
+    "rare_item": null,
+    "sprite": "12.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/12.png"
+}

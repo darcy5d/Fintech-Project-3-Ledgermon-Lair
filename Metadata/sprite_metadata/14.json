@@ -1,0 +1,17 @@
+{
+    "name": "DonVisha",
+    "number": 14,
+    "type": [
+        "Frost",
+        "Toxic"
+    ],
+    "attributes": {
+        "attack": 68,
+        "defense": 33,
+        "speed": 88
+    },
+    "item": "Orb",
+    "rare_item": null,
+    "sprite": "14.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/14.png"
+}

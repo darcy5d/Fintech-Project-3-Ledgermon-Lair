@@ -1,0 +1,17 @@
+{
+    "name": "MagiVatten",
+    "number": 128,
+    "type": [
+        "Mystic",
+        "Aqua"
+    ],
+    "attributes": {
+        "attack": 22,
+        "defense": 32,
+        "speed": 84
+    },
+    "item": "Amulet",
+    "rare_item": null,
+    "sprite": "128.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/128.png"
+}
