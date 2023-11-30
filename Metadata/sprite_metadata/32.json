@@ -1,0 +1,17 @@
+{
+    "name": "PolatDord",
+    "number": 32,
+    "type": [
+        "Metal",
+        "Thunder"
+    ],
+    "attributes": {
+        "attack": 14,
+        "defense": 62,
+        "speed": 15
+    },
+    "item": "Leaf",
+    "rare_item": null,
+    "sprite": "32.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/32.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Visha",
+    "number": 97,
+    "type": [
+        "Toxic"
+    ],
+    "attributes": {
+        "attack": 6,
+        "defense": 1,
+        "speed": 99
+    },
+    "item": "Book",
+    "rare_item": null,
+    "sprite": "97.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/97.png"
+}

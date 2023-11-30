@@ -1,0 +1,17 @@
+{
+    "name": "BrannHerba",
+    "number": 100,
+    "type": [
+        "Flame",
+        "Plant"
+    ],
+    "attributes": {
+        "attack": 90,
+        "defense": 1,
+        "speed": 93
+    },
+    "item": "Feather",
+    "rare_item": null,
+    "sprite": "100.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/100.png"
+}

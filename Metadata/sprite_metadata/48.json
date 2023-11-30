@@ -1,0 +1,16 @@
+{
+    "name": "Druma",
+    "number": 48,
+    "type": [
+        "Thunder"
+    ],
+    "attributes": {
+        "attack": 97,
+        "defense": 81,
+        "speed": 70
+    },
+    "item": "Mushroom",
+    "rare_item": null,
+    "sprite": "48.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/48.png"
+}

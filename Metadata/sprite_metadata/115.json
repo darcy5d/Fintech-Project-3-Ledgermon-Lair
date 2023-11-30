@@ -1,0 +1,16 @@
+{
+    "name": "Yer",
+    "number": 115,
+    "type": [
+        "Earth"
+    ],
+    "attributes": {
+        "attack": 11,
+        "defense": 87,
+        "speed": 41
+    },
+    "item": "Orb",
+    "rare_item": null,
+    "sprite": "115.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/115.png"
+}

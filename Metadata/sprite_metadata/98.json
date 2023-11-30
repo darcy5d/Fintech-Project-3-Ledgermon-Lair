@@ -1,0 +1,17 @@
+{
+    "name": "OrmrBug",
+    "number": 98,
+    "type": [
+        "Wyrm",
+        "Insect"
+    ],
+    "attributes": {
+        "attack": 17,
+        "defense": 47,
+        "speed": 25
+    },
+    "item": "Stone",
+    "rare_item": null,
+    "sprite": "98.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/98.png"
+}

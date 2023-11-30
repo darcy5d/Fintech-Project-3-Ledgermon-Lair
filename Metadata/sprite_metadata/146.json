@@ -1,0 +1,17 @@
+{
+    "name": "StahlVenenum",
+    "number": 146,
+    "type": [
+        "Metal",
+        "Toxic"
+    ],
+    "attributes": {
+        "attack": 55,
+        "defense": 79,
+        "speed": 31
+    },
+    "item": "Mushroom",
+    "rare_item": null,
+    "sprite": "146.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/146.png"
+}

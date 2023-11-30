@@ -1,0 +1,17 @@
+{
+    "name": "BocekSkyer",
+    "number": 86,
+    "type": [
+        "Insect",
+        "Sky"
+    ],
+    "attributes": {
+        "attack": 83,
+        "defense": 37,
+        "speed": 4
+    },
+    "item": "Pearl",
+    "rare_item": null,
+    "sprite": "86.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/86.png"
+}

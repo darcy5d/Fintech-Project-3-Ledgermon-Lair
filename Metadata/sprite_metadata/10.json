@@ -1,0 +1,17 @@
+{
+    "name": "ToxBug",
+    "number": 10,
+    "type": [
+        "Toxic",
+        "Insect"
+    ],
+    "attributes": {
+        "attack": 24,
+        "defense": 62,
+        "speed": 83
+    },
+    "item": "Bell",
+    "rare_item": null,
+    "sprite": "10.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/10.png"
+}

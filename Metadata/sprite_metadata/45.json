@@ -1,0 +1,16 @@
+{
+    "name": "Otu",
+    "number": 45,
+    "type": [
+        "Plant"
+    ],
+    "attributes": {
+        "attack": 40,
+        "defense": 28,
+        "speed": 10
+    },
+    "item": "Bracelet",
+    "rare_item": null,
+    "sprite": "45.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/45.png"
+}

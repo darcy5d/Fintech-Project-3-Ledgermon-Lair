@@ -1,0 +1,16 @@
+{
+    "name": "Asman",
+    "number": 101,
+    "type": [
+        "Sky"
+    ],
+    "attributes": {
+        "attack": 3,
+        "defense": 21,
+        "speed": 61
+    },
+    "item": "Bracelet",
+    "rare_item": null,
+    "sprite": "101.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/101.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Hydro",
+    "number": 49,
+    "type": [
+        "Aqua"
+    ],
+    "attributes": {
+        "attack": 21,
+        "defense": 48,
+        "speed": 81
+    },
+    "item": "Crystal",
+    "rare_item": null,
+    "sprite": "49.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/49.png"
+}

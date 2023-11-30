@@ -1,0 +1,16 @@
+{
+    "name": "Volt",
+    "number": 21,
+    "type": [
+        "Thunder"
+    ],
+    "attributes": {
+        "attack": 58,
+        "defense": 52,
+        "speed": 69
+    },
+    "item": "Scroll",
+    "rare_item": null,
+    "sprite": "21.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/21.png"
+}

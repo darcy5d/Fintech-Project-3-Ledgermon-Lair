@@ -1,0 +1,17 @@
+{
+    "name": "VoltHerba",
+    "number": 3,
+    "type": [
+        "Thunder",
+        "Plant"
+    ],
+    "attributes": {
+        "attack": 56,
+        "defense": 90,
+        "speed": 3
+    },
+    "item": "Mirror",
+    "rare_item": null,
+    "sprite": "3.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/3.png"
+}

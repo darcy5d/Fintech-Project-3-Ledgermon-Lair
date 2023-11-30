@@ -1,0 +1,16 @@
+{
+    "name": "Bellum",
+    "number": 137,
+    "type": [
+        "Combat"
+    ],
+    "attributes": {
+        "attack": 52,
+        "defense": 87,
+        "speed": 93
+    },
+    "item": "Bracelet",
+    "rare_item": null,
+    "sprite": "137.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/137.png"
+}

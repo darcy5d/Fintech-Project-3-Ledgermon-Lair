@@ -1,0 +1,16 @@
+{
+    "name": "Sihirli",
+    "number": 129,
+    "type": [
+        "Enchanted"
+    ],
+    "attributes": {
+        "attack": 25,
+        "defense": 42,
+        "speed": 97
+    },
+    "item": "Map",
+    "rare_item": null,
+    "sprite": "129.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/129.png"
+}

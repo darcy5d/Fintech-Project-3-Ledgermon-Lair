@@ -1,0 +1,16 @@
+{
+    "name": "Wraith",
+    "number": 58,
+    "type": [
+        "Phantom"
+    ],
+    "attributes": {
+        "attack": 82,
+        "defense": 79,
+        "speed": 2
+    },
+    "item": "Pearl",
+    "rare_item": null,
+    "sprite": "58.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/58.png"
+}

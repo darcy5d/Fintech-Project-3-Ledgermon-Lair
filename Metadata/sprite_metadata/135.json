@@ -1,0 +1,16 @@
+{
+    "name": "Plain",
+    "number": 135,
+    "type": [
+        "Basic"
+    ],
+    "attributes": {
+        "attack": 91,
+        "defense": 95,
+        "speed": 33
+    },
+    "item": "Mushroom",
+    "rare_item": null,
+    "sprite": "135.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/135.png"
+}

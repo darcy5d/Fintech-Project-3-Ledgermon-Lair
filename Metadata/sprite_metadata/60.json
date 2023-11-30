@@ -1,0 +1,16 @@
+{
+    "name": "Psyche",
+    "number": 60,
+    "type": [
+        "Mystic"
+    ],
+    "attributes": {
+        "attack": 9,
+        "defense": 45,
+        "speed": 47
+    },
+    "item": "Leaf",
+    "rare_item": null,
+    "sprite": "60.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/60.png"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "FairyLuft",
+    "number": 41,
+    "type": [
+        "Enchanted",
+        "Sky"
+    ],
+    "attributes": {
+        "attack": 86,
+        "defense": 49,
+        "speed": 11
+    },
+    "item": "Key",
+    "rare_item": null,
+    "sprite": "41.png",
+    "ipfs_link": "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmPZ1JibhWRtPk2pJcmakj1iSo1rcchp77nngiihunwP2Z/41.png"
+}
