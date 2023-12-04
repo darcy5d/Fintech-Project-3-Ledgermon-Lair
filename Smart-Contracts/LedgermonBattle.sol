@@ -55,32 +55,25 @@ contract LedgermonBattle is Ledgermon {
     }
 
     // Function to initiate a battle between the caller and an opponent
-    function initiateBattle(address opponent) external {
-        // Ensure the caller and opponent both have at least one Pokemon
-        uint256 _nextTokenId = 1;
-        require(ownerOf(_nextTokenId - 1) == msg.sender, "You need at least one Pokemon to start a battle");
-        require(ownerOf(_nextTokenId) == opponent, "Your opponent needs at least one Pokemon to start a battle");
+    function initiateBattle(address opponent, uint8 tokenIdOpponent, uint8 tokenIdOwner) external {
+        require(balanceOf(msg.sender) > 0, "You need at least one Pokemon to start a battle");
+        require(balanceOf(opponent) > 0, "Your opponent needs at least one Pokemon to start a battle");
 
         // Create a new battle ID and get the next two token IDs
         uint256 battleId = nextBattleId++;
-        uint256 tokenId1 = _nextTokenId - 1;
-        uint256 tokenId2 = _nextTokenId;
 
         // Initialize player1 and player2 Pokemon attributes
         battles[battleId] = Battle({
             battleId: battleId,
             player1: msg.sender,
             player2: opponent,
-            player1Pokemon: PokemonAttributes({ tokenId: tokenId1, attack: 0, defense: 0, speed: 0, level: 0}),
-            player2Pokemon: PokemonAttributes({ tokenId: tokenId2, attack: 0, defense: 0, speed: 0, level: 0 }),
+            player1Pokemon: PokemonAttributes({ tokenId: tokenIdOpponent, attack: 0, defense: 0, speed: 0, level: 0}),
+            player2Pokemon: PokemonAttributes({ tokenId: tokenIdOwner, attack: 0, defense: 0, speed: 0, level: 0 }),
             state: BattleState.Player1Turn,
             turn: msg.sender,
             winner: address(0),
-            opponentPokemonId: tokenId2 // Assign the opponent's Pokemon ID
+            opponentPokemonId: tokenIdOpponent // Assign the opponent's Pokemon ID
         });
-
-        // Increment _nextTokenId here
-        _nextTokenId++;
 
         // Emit an event to indicate that the battle has been initiated
         emit BattleInitiated(battleId, msg.sender, opponent);
@@ -88,44 +81,43 @@ contract LedgermonBattle is Ledgermon {
 
     // Function for a player to take their turn in the battle
     function takeTurn(uint256 battleId) external onlyParticipants(battleId) isPlayersTurn(battleId) battleNotEnded(battleId) {
-        // Declare variables to store player and opponent Pokemon attributes, as well as the winner and loser
-        PokemonAttributes memory playerPokemon;
-        PokemonAttributes memory opponentPokemon;
+        // Determine which player is taking the turn and assign relevant variables
         address winner;
         address loser;
 
-        // Determine which player is taking the turn and assign relevant variables
+        // Determine which player is taking the turn
         if (msg.sender == battles[battleId].player1) {
-            playerPokemon = battles[battleId].player1Pokemon;
-            opponentPokemon = battles[battleId].player2Pokemon;
             winner = battles[battleId].player1;
             loser = battles[battleId].player2;
         } else {
-            playerPokemon = battles[battleId].player2Pokemon;
-            opponentPokemon = battles[battleId].player1Pokemon;
             winner = battles[battleId].player2;
             loser = battles[battleId].player1;
         }
 
-        // Basic attack calculation: attacker's attack minus defender's defense
-        uint256 damage = playerPokemon.attack > opponentPokemon.defense ? playerPokemon.attack - opponentPokemon.defense : 0;
+        // Basic attack calculation: attacker's attack minus defender's defense with random multipliers
+        uint256 blockDifficulty = block.difficulty;
+
+        // Get the last digit
+        uint256 rand_1 = blockDifficulty % 10;
+        uint256 rand_2 = (blockDifficulty / 10) % 10;
+        uint256 damage = battles[battleId].player1Pokemon.attack + rand_1 > battles[battleId].player2Pokemon.defense + rand_2 ? battles[battleId].player1Pokemon.attack - battles[battleId].player2Pokemon.defense : 0;
 
         // Reduce defender's HP
-        if (opponentPokemon.defense > damage) {
-            opponentPokemon.defense -= damage;
+        if (battles[battleId].player2Pokemon.defense > damage) {
+            battles[battleId].player2Pokemon.defense -= damage;
         } else {
             // Defender fainted
-            opponentPokemon.defense = 0;
+            battles[battleId].player2Pokemon.defense = 0;
 
             // Winner gets the opponent's Pokemon
             _transfer(loser, winner, battles[battleId].opponentPokemonId);
 
             // Winner's Pokemon is leveled up
-            playerPokemon.level++;
+            battles[battleId].player1Pokemon.level++;
         }
 
         // Emit an event to indicate the turn has been taken
-        emit TurnTaken(battleId, msg.sender, playerPokemon, opponentPokemon, true);
+        emit TurnTaken(battleId, msg.sender, battles[battleId].player1Pokemon, battles[battleId].player2Pokemon, true);
 
         // Update game state to indicate the battle has ended
         battles[battleId].state = BattleState.Ended;
