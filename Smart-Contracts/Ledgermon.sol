@@ -7,6 +7,7 @@ contract Ledgermon is ERC721 {
     uint256 private _nextTokenId = 1; //start at
     uint256 public cost = 1 ether;
     string public uriSuffix = ".json";
+    string public uriPrefix = "";
     constructor() ERC721("LedgermonLegends", "LL") {}
     struct PokemonAttributes {
         uint256 level;
@@ -15,9 +16,14 @@ contract Ledgermon is ERC721 {
         uint256 speed;
         uint256 tokenId;
     }
+
+    function setUriPrefix(string memory _uriPrefix) public onlyOwner {
+        uriPrefix = _uriPrefix;
+    }
+
     // Set the base location of the token URI
     function _baseURI() internal pure override returns (string memory) {
-        return "https://teal-key-jaguar-194.mypinata.cloud/ipfs/QmSadmgBdqNMnUiD3LHJq5PZTeHnNfyFqdLTfdYyHUexAh/";
+        return uriPrefix;
     }
     // Concatenate the baseURI + tokenID + .json
     function tokenURI(uint256 tokenId) public view virtual override returns (string memory) {
