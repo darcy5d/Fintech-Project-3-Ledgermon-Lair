@@ -5,7 +5,7 @@ import {Strings} from "@openzeppelin/contracts/utils/Strings.sol";
 contract Ledgermon is ERC721 {
     using Strings for uint256;
     uint256 private _nextTokenId = 1; //start at
-    uint256 public cost = 1 ether;
+    uint256 public cost = 100000000000000; //0.0001 ether
     string public uriSuffix = ".json";
     string public uriPrefix = "";
     constructor() ERC721("LedgermonLegends", "LL") {}
