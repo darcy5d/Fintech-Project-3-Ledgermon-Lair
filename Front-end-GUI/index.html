@@ -43,12 +43,16 @@
       <div id="sticky-header" class="tg-header__area transparent-header">
         <div class="container custom-container">
           <div class="row">
-            <div class="col-12">
+            <div class="col-6">
               <div class="logo">
                 <a href="index.html"
                   ><img src="assets/img/logo/logo.png" alt="Logo"
                 /></a>
               </div>
+            </div>
+            <div class="col-6">
+              <button class="enableEthereumButton">Connect</button>
+              <h4>Account: <span class="showAccount"></span></h4>
             </div>
           </div>
         </div>
@@ -143,5 +147,9 @@
     <script src="assets/js/vivus.min.js"></script>
     <script src="assets/js/wow.min.js"></script>
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/web3.min.js"></script>
+    <script type="text/javascript" src="assets/js/abi.js"></script>
+    <script src="https://unpkg.com/@metamask/detect-provider/dist/detect-provider.min.js"></script>
+    <script type="module" src="assets/js/metamask.js"></script>
   </body>
 </html>

@@ -43,12 +43,17 @@
       <div id="sticky-header" class="tg-header__area transparent-header">
         <div class="container custom-container">
           <div class="row">
-            <div class="col-12">
+            <div class="col-6">
               <div class="logo">
                 <a href="index.html"
                   ><img src="assets/img/logo/logo.png" alt="Logo"
                 /></a>
               </div>
+            </div>
+            <div class="col-6">
+              <!-- <button class="connectMeta">Connect</button> -->
+              <input type="button" onclick="connectMeta();" value="Connect Metamask"/>
+              <h4>Account: <span class="showAccount"></span></h4>
             </div>
           </div>
         </div>
@@ -129,12 +134,13 @@
                   <div class="tournament__box-caption">
                     <h4 class="title">MINT</h4>
                   </div>
-                  <a href="tournament.html" class="tg-btn-3 tg-svg mx-auto">
+                  <input type="button" onclick="mintNow();" />
+                  <!-- <a href="tournament.html" class="tg-btn-3 tg-svg mx-auto">
                     <div
                       class="svg-icon"
                       id="svg-1"
                       data-svg-icon="assets/img/icons/shape.svg"
-                    ></div>
+                    ></div> -->
                     <span>EXPLORE</span>
                   </a>
                   <ul class="tournament__box-list list-wrap"></ul>
@@ -322,5 +328,9 @@
     <script src="assets/js/vivus.min.js"></script>
     <script src="assets/js/wow.min.js"></script>
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/web3.min.js"></script>
+    <script type="text/javascript" src="./assets/js/abi.js"></script>
+    <script src="https://unpkg.com/@metamask/detect-provider/dist/detect-provider.min.js"></script>
+    <script type="text/javascript" src="assets/js/metamask.js"></script>
   </body>
 </html>
