@@ -56,9 +56,9 @@ contract LedgermonBattle is Ledgermon {
 
     // Function to initiate a battle between the caller and an opponent
     function initiateBattle(address opponent, uint8 tokenIdOpponent, uint8 tokenIdOwner) external {
-        require(balanceOf(msg.sender) > 0, "You need at least one Pokemon to start a battle");
-        require(balanceOf(opponent) > 0, "Your opponent needs at least one Pokemon to start a battle");
-
+        require(ownerOf(tokenIdOpponent)==opponent, "Your Opponent does not own that Ledgermon");
+        require(ownerOf(tokenIdOwner)==msg.sender, "You do not own that Ledgermon");
+        
         // Create a new battle ID and get the next two token IDs
         uint256 battleId = nextBattleId++;
 
