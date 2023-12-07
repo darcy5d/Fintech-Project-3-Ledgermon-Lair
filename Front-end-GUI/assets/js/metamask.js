@@ -100,6 +100,7 @@ function connectMeta() {
 	const accounts = ethereum.request({ method: 'eth_requestAccounts' });
 }
 
+////// MINTING FUNCTION
 //Run the button click minting function
 function mintNow() {
 	//check metamsk is still connected. Press twice to mint if not.
@@ -118,6 +119,7 @@ function mintNow() {
 	const cost=web3.utils.toWei('0.0001', 'ether');
 	console.log("Total cost in wei:",cost)
 
+  //send the transaction!
   contract.methods.MINT().send({
     to: contractAddress,
     from: account,
@@ -126,6 +128,62 @@ function mintNow() {
     console.log(res);
   }).catch(function(err) {
     console.log(err);
+  });
+		
+}
+
+/// BATTLE FUNCTION
+//Initate a Battle
+function startBattle(opponent, tokenIdOpponent, tokenIdOwner) {
+	//check metamsk is still connected. Press twice to mint if not.
+	const accounts = ethereum.request({ method: 'eth_requestAccounts' });
+
+	console.log("Starting Battle!")
+	// Time to reload your interface with accounts[0] if you change!
+	window.ethereum.on('accountsChanged', function (accounts) {
+		console.log(accounts[0])
+	});
+
+	//Get the current wallet address to use in contract
+	var account = web3.currentProvider.selectedAddress;
+	console.log("To account:",account);
+
+  //send the transaction!
+  contract.methods.initiateBattle(opponent, tokenIdOpponent, tokenIdOwner).send({
+    from: account
+  }).then(function(res){
+    console.log(res);
+  }).catch(function(err) {
+    console.log(err);
+  });
+		
+}
+
+
+/// Call function example
+// Read contract for ownerOf 
+function checkToken(tokenId) {
+	//check metamsk is still connected. Press twice to mint if not.
+	const accounts = ethereum.request({ method: 'eth_requestAccounts' });
+
+	console.log("Finding address of tokenId from contract")
+	// Time to reload your interface with accounts[0] if you change!
+	window.ethereum.on('accountsChanged', function (accounts) {
+		console.log(accounts[0])
+	});
+
+	//Get the current wallet address to use in contract
+	var account = web3.currentProvider.selectedAddress;
+
+  //Call the contract!
+  contract.methods.ownerOf(tokenId).call({
+    from: account
+  }).then(function(res){
+    console.log(res);
+    return(document.getElementById('result').innerHTML += "<p>" + res + "</p>")
+  }).catch(function(err) {
+    console.log(err);
+    return("Error")
   });
 		
 }
