@@ -1,6 +1,6 @@
 # Fintech Bootcamp Capstone Project:
 # Project 3 - Ledgermon Lair
-
+![images](pics/LedgerMon.png)
 
 # NFT and Sprite Metadata Creation
 ## Libraries Used
@@ -12,7 +12,10 @@
 - `os`: Handles directory and file operations.
 - `dotenv`: Loads environment variables from a `.env` file.
 - `json`: Manages JSON data for reading and writing purposes.
-
+- 'pragma solidity ^0.8.20'
+- 'ERC-721': Ethereum token standard
+- 'Ownable': Contract module which provides a basic access control mechanism, where there is an account (an owner) that can be granted exclusive access to specific functions.
+  
 ## Workflow Summary
 
 ### Environment Setup
