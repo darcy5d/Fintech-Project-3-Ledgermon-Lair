@@ -26,6 +26,10 @@
 
   <!-- Page-Revealer -->
   <script src="assets/js/tg-page-head.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@metamask/detect-provider"></script>
+  <script src="https://unpkg.com/@metamask/detect-provider/dist/detect-provider.min.js"></script>
+  <script src="assets/js/app.js"></script>
 </head>
 
 <body>
@@ -46,16 +50,11 @@
             </div>
           </div>
           <div class="col-6">
-            <!-- <button class="connectMeta">Connect</button> -->
-            <input type="button" onclick="connectMeta();" value="Connect Metamask" />
-            <h4>Account: <span class="showAccount"></span></h4>
-          </div>
         </div>
       </div>
     </div>
   </header>
-  <!-- header-area-end -->
-
+  <!-- header-area-end -->  
   <!-- main-area -->
   <main class="main--area">
     <!-- breadcrumb-area -->
@@ -80,7 +79,7 @@
             </div>
             <div class="col-xl-6 col-lg-5 position-relative d-none d-lg-block">
               <div class="breadcrumb__img">
-                <img src="assets/img/others/breadcrumb_img03.png" alt="img" />
+                <img src="assets/img/logo/preloader.png" alt="img" />
               </div>
             </div>
           </div>
@@ -98,6 +97,12 @@
               <div class="section__title text-center mb-60">
                 <span class="sub-title tg__animate-text">TOURNAMENT</span>
                 <h3 class="title">PLAY AND CREATE</h3>
+                <div class="tg-btn-6 tg-svg mx-auto">
+                  <a href="check.html" class="tg-btn-6 tg-svg mx-auto"">
+                      <div class="svg-icon" id="svg-4" data-svg-icon="assets/img/icons/shape.svg"></div>
+                      <span>MetaMask</span>
+                  </a>
+              </div>
               </div>
             </div>
           </div>
@@ -193,7 +198,7 @@
                 <div class="tournament__box-caption_2">
                   <h4 class="title">ETHERSCAN</h4>
                 </div>
-                <a href="https://sepolia.etherscan.io/address/0x38610f1B3606cEbEd6b8d38a6f23b9dcc772f6dd"
+                <a href="https://sepolia.etherscan.io/token/0x38610f1b3606cebed6b8d38a6f23b9dcc772f6dd"
                   class="tg-btn-4 tg-svg mx-auto">
                   <div class="svg-icon" id="svg-3" data-svg-icon="assets/img/icons/shape.svg"></div>
                   <span>EXPLORE</span>
@@ -214,7 +219,7 @@
                 </div>
                 <a href="https://sepolia.looksrare.org/collections/0x38610f1B3606cEbEd6b8d38a6f23b9dcc772f6dd"
                   class="tg-btn-5 tg-svg mx-auto">
-                  <div class="svg-icon" id="svg-4" data-svg-icon="assets/img/icons/shape.svg"></div>
+                  <div class="svg-icon" id="svg-5" data-svg-icon="assets/img/icons/shape.svg"></div>
                   <span>EXPLORE</span>
                 </a>
               </div>
@@ -223,7 +228,7 @@
         </div>
       </div>
     </section>
-
+<!---->
     <!-- Contract lookups -->
     <section class="tournament-area section-pt-120 section-pb-90">
       <div class="container">
@@ -250,23 +255,24 @@
                 </div>
 
                 <!-- Form to run "ownerOf" contract method -->
+
                 <div>
                   <form id="lookupForm">
                     <label for="tokenId">Token ID:</label>
                     <input type="number" id="tokenId" name="tokenId" min="1" max="151" size="3"
+                    
                       oninput="(validity.valid)||(value='1');" required>
 
                     <!-- Button to call the contract with the SVG icon -->
-                    <a class="tg-btn-3 tg-svg mx-auto" onclick="checkToken(document.getElementById('tokenId').value)">
-                      <div class="svg-icon" id="svg-5" data-svg-icon="assets/img/icons/shape.svg"></div>
+                    <a class="tg-btn-4 tg-svg mx-auto" onclick="checkToken(document.getElementById('tokenId').value)">
+                      <div class="svg-icon" id="svg-6" data-svg-icon="assets/img/icons/shape.svg"></div>
                       <span>Find Trainer</span>
                     </a>
                   </form>
                 </div>
-
                 <span id="result"></span>
+              </div> 
 
-              </div>
 
 
 
@@ -309,6 +315,7 @@
   <!-- footer-start-end -->
 
   <!-- JS here -->
+  <script src="assets/js/metamask.js"></script>
   <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
   <script src="assets/js/bootstrap.min.js"></script>
   <script src="assets/js/jquery.magnific-popup.min.js"></script>
@@ -332,8 +339,6 @@
   <script src="assets/js/main.js"></script>
   <script src="assets/js/web3.min.js"></script>
   <script type="text/javascript" src="./assets/js/abi.js"></script>
-  <script src="https://unpkg.com/@metamask/detect-provider/dist/detect-provider.min.js"></script>
-  <script type="text/javascript" src="assets/js/metamask.js"></script>
 </body>
 
 </html>

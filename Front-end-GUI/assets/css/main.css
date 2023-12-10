@@ -834,6 +834,68 @@ input[type="color"] {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
 }
+
+/* TG Button 06 */
+.tg-btn-6 {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-family: var(--tg-heading-font-family);
+  color: var(--tg-common-color-black-2);
+  font-weight: var(--tg-fw-extra-bold);
+  background: transparent;
+  border: none;
+  white-space: nowrap;
+  font-size: 16px;
+  padding: 15px 25px;
+  line-height: 1;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -ms-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  width: 188px;
+  height: 61px;
+}
+@media (max-width: 767.98px) {
+  .tg-btn-6 {
+    width: 166px;
+    height: 53px;
+    padding: 13px 22px;
+    font-size: 15px;
+  }
+}
+.tg-btn-6:hover {
+  color: var(--tg-common-color-black-2);
+}
+.tg-btn-6 .svg-icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  fill: var(--tg-common-color-orange);
+  stroke: var(--tg-common-color-white);
+  stroke-width: 2px;
+  fill-rule: evenodd;
+  z-index: -1;
+}
+.tg-btn-6 .svg-icon svg {
+  display: block;
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -ms-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+}
 /*=============================
 	1. Search Popup
 ===============================*/
@@ -8564,7 +8626,7 @@ Default Tab Style
   text-transform: uppercase;
   color: var(--tg-common-color-black);
   letter-spacing: 1px;
-  background-color: var(--tg-theme-primary);
+  background-color: var(--tg-theme-secondary);
   border: none;
   -webkit-clip-path: path(
     "M8,0H152a8,8,0,0,1,8,8V33.63C160,37.36,140,53,140,53H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z"
