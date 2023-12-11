@@ -1,7 +1,7 @@
 # Fintech Bootcamp Capstone Project:
 # Project 3 - Ledgermon Lair
 ![alt=""](pics/LedgerMon.png)
-![images](pics/image6.jpeg)
+
 
 # NFT and Sprite Metadata Creation
 ## Libraries Used
@@ -13,14 +13,29 @@
 - `os`: Handles directory and file operations.
 - `dotenv`: Loads environment variables from a `.env` file.
 - `json`: Manages JSON data for reading and writing purposes.
+
+# NFT Smart Contract Creation
+## Libraries Used
 - 'pragma solidity ^0.8.20'
 - 'ERC-721': Ethereum token standard
 - 'Ownable': Contract module which provides a basic access control mechanism, where there is an account (an owner) that can be granted exclusive access to specific functions.
 
 ## Workflow Summary
+# NFT Smart Contract Creation
+- collect all Metadata and create NFT pictures
+- create IPFS_locationto be linked with contracts and front-end
+- create both contracts (Ledgermon and LedgermonBattle)
+- compile them and deploy
+- test the networks on the OpenSea testnet
+- create front-end-GUI
 
 ### Environment Setup
 - Environment variables are loaded, focusing on the OpenAI API key.
+
+# NFT Smart Contract Creation
+### Environment Setup
+- pragma solidity ^0.8.20;
+- import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
 ### Defining Game Elements
 - Lists of common and rare items are established.
@@ -39,6 +54,53 @@
 - Dynamic generation of character names and attributes.
 - Use of OpenAI's image generation API for creating unique character sprites.
 - Integration with IPFS, indicating blockchain or distributed ledger technology utilization.
+
+# NFT Smart Contract Creation
+### Defining Game Elements
+- construct LedgermonLegend to inherit ERC721 : standard defines a set of functions that allow for the creation, ownership, and transfer of NFTs. Each NFT is represented by a unique identifier, and can have associated metadata, such as a name, description, and image.
+- set :
+    using Strings for uint256;
+    uint256 private _nextTokenId = 1; //start at
+    uint256 public cost = 0.00001 ether;
+    string public uriSuffix = ".json";
+    string public uriPrefix = "IPFS link"
+- set the tokenUri to be linked with the tokenId
+- call the function on tokenURI, which contains tokenId, uriPrefix and uriSuffix
+- generate minting function to create a tokenId and also setting the cost of minting
+##### Battle Constructor:
+- create struct to generate all variables in the Battle, the Struct represents a battle such as battleId, player1's address, player2's address so on.
+   struct Battle {
+        uint256 battleId;
+        address player1;
+        address player2;
+        PokemonAttributes player1Pokemon;
+        PokemonAttributes player2Pokemon;
+        BattleState state;
+        address turn;
+        address winner;
+        uint256 opponentPokemonId; // New member to store the opponent's Pokemon ID
+    }
+- Mapping to store battles by their battleId
+- Generate Event emitted when a battle is initiated
+- Call Function initiateBattle from address opponent, uint8 tokenIdOpponent, uint8 tokenIdOwner *** require an ownerOf statement
+- Initialize player1 and player2 Pokemon attributes
+- Call Function takeTurn(uint256 battleId), which is the battle beginning state
+- Setting the condition of the battle by creating If-else statement
+- generating the return of the winner address 
+- remitting the emit function to notify the turntaken and the end of battle
+## Key Features
+### Verify the LedgermonBattle contract on Etherscan
+- Entering the flatten code from Solidity into Etherscan web page
+- Then Verify and Publish the code in order to let the external network can participate in the battle game
+
+![alt=""](pics/sepolia_battle.jpeg)
+![alt=""](pics/opensea.jpeg)
+
+
+# Front-end-GUI
+
+
+
 
 # Project Disclaimer
 ## Educational Purpose
