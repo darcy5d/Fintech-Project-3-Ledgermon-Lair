@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MetaMask Integration</title>
+    <script src="https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@metamask/detect-provider"></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+        text-align: center;
+      }
+      .container {
+        width: 80%;
+        margin: 30px auto;
+        padding: 20px;
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .button {
+        padding: 10px 20px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+      }
+      .button:hover {
+        background-color: #45a049;
+      }
+      .account-info {
+        margin-top: 20px;
+        font-size: 18px;
+        color: #333;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Connect to MetaMask</h1>
+      <button class="enableEthereumButton button">Connect Wallet</button>
+      <div class="account-info">
+        <strong>Account:</strong> <span class="showAccount"></span>
+      </div>
+    </div>
+
+    <script>
+      async function detectMetaMask() {
+        const provider = await detectEthereumProvider();
+
+        if (provider) {
+          startApp(provider);
+        } else {
+          console.log("Please install MetaMask!");
+        }
+      }
+
+      function startApp(provider) {
+        if (provider !== window.ethereum) {
+          console.error("Do you have multiple wallets installed?");
+        }
+        // Other initialization code
+      }
+
+      async function setupChain() {
+        const chainId = await window.ethereum.request({
+          method: "eth_chainId",
+        });
+        window.ethereum.on("chainChanged", handleChainChanged);
+      }
+
+      function handleChainChanged(chainId) {
+        window.location.reload();
+      }
+
+      async function setupAccounts() {
+        let currentAccount = null;
+
+        window.ethereum
+          .request({ method: "eth_accounts" })
+          .then(handleAccountsChanged)
+          .catch((err) => {
+            console.error(err);
+          });
+
+        window.ethereum.on("accountsChanged", handleAccountsChanged);
+
+        function handleAccountsChanged(accounts) {
+          if (accounts.length === 0) {
+            console.log("Please connect to MetaMask.");
+          } else if (accounts[0] !== currentAccount) {
+            currentAccount = accounts[0];
+            document.querySelector(".showAccount").innerHTML = currentAccount;
+          }
+        }
+      }
+
+      document
+        .querySelector(".enableEthereumButton")
+        .addEventListener("click", () => {
+          getAccount();
+        });
+
+      async function getAccount() {
+        const accounts = await window.ethereum
+          .request({ method: "eth_requestAccounts" })
+          .catch((err) => {
+            if (err.code === 4001) {
+              console.log("Please connect to MetaMask.");
+            } else {
+              console.error(err);
+            }
+          });
+
+        if (accounts) {
+          const account = accounts[0];
+          document.querySelector(".showAccount").innerHTML = account;
+
+          // Navigate back to the previous page after connecting the wallet
+          window.history.back();
+        }
+      }
+
+      async function initWeb3() {
+        web3 = new Web3(Web3.givenProvider || "ws://localhost:8545");
+
+        web3.eth.net.isListening().catch(function (err) {
+          console.log("Couldn't connect to any node. Please install MetaMask");
+        });
+
+        console.log(web3.version);
+      }
+
+      async function initializeMetaMask() {
+        await detectMetaMask();
+        await setupChain();
+        await setupAccounts();
+        await initWeb3();
+      }
+
+      window.onload = async function () {
+        await initializeMetaMask();
+      };
+    </script>
+  </body>
+</html>
